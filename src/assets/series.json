@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "nombre": "24 horas en A y E",
+        "bio": "No la conoce ni Peter el panda",
+        "img": "assets/img/fixtures/seguir-viendo/01_min.jpg",
+        "aparicion": "Algun año",
+        "temporadas": []
+    },
+    {
+        "id": 2,
+        "nombre": "American Horror Story",
+        "bio": "Una familia de tres se muda de Boston a Los Ángeles para reconciliar su doloroso pasado.",
+        "img": "assets/img/fixtures/seguir-viendo/02_min.jpg",
+        "aparicion": "2011",
+        "temporadas": []
+    },
+    {
+        "id": 3,
+        "nombre": "Big-Bang Theory",
+        "bio": "Leonard y Sheldon son dos cerebros privilegiados que pueden ser capaces de decirles a todo el mundo más de lo que quiere saber sobre la física cuántica, pero que no tienen ni la menor idea de cómo relacionarse socialmente, especialmente cuando se trata de mujeres. Penny, una mesera y aspirante a actriz, altera la vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon, cuando se muda cerca a ellos y los visita frecuentemente para pasar el rato.",
+        "img": "assets/img/fixtures/seguir-viendo/03_min.jpg",
+        "aparicion": "2007",
+        "temporadas": []
+    },
+    {
+        "id": 4,
+        "nombre": "Friends",
+        "bio": "Tres hombres y tres mujeres jóvenes son mejores amigos y viven en el mismo conjunto de apartamentos, ellos enfrentan la vida y el amor en la ciudad de Nueva York. Ellos meten sus narices en los asuntos personales de otros y a veces intercambian novios o novias, lo que algunas veces genera situaciones que las personas comunes nunca experimenten, especialmente durante los rompimientos.",
+        "img": "assets/img/fixtures/seguir-viendo/04_min.jpg",
+        "aparicion": "1994",
+        "temporadas": []
+    },
+    {
+        "id": 5,
+        "nombre": "La casa de papel",
+        "bio": "Una banda organizada de ladrones se propone cometer el atraco del siglo en la Fábrica Nacional de Moneda y Timbre. Cinco meses de preparación quedarán reducidos a once días para poder llevar a cabo con éxito el gran golpe.",
+        "img": "assets/img/fixtures/seguir-viendo/05_min.jpg",
+        "aparicion": "2017",
+        "temporadas": []
+    },
+    {
+        "id": 6,
+        "nombre": "Downton Abbey",
+        "bio": "Un drama histórico que sigue las vidas de la familia Crawley y sus domésticos en su propiedad de Downton Abbey.",
+        "img": "assets/img/fixtures/seguir-viendo/06_min.jpg",
+        "aparicion": "2010",
+        "temporadas": []
+    },
+    {
+        "id": 7,
+        "nombre": "Violet Evergarden",
+        "bio": "Hay palabras que Violet escuchó en el campo de batalla, que no puede olvidar. Estas palabras le fueron dadas por alguien que ella aprecia, más que nadie. Ella todavía no sabe su significado. Un cierto punto en el tiempo, en el continente de Telesis. La gran guerra que dividió el continente en Norte y Sur ha terminado después de cuatro años, y la gente está dando la bienvenida a una nueva generación. Violet Evergarden, una joven conocida anteriormente como 'el arma', ha abandonado el campo de batalla para comenzar una nueva vida en el Servicio Postal CH. Allí, está profundamente conmovida por el trabajo de 'Auto Memories Doll', que transmiten los pensamientos de las personas y las convierten en palabras. Violet comienza su viaje como una muñeca de recuerdos automáticos, y se encuentra cara a cara con las emociones de las personas y las diferentes formas de amor. Todo el tiempo buscando el significado de esas palabras.",
+        "img": "assets/img/fixtures/seguir-viendo/07_min.jpg",
+        "aparicion": "2018",
+        "temporadas": []
+    },
+    {
+        "id": 8,
+        "nombre": "Dos hombres y medio",
+        "bio": "Un quiropráctico y padre soltero, Alan Harper, vive en una casa al frente de la playa con su hijo mediocre, Jake y un billonario de la Internet divorciado Walden Schmidt, que se muda con la familia de los Harper y ofrece comprar la casa luego de la muerte inesperada del hermano de Alan, Charlie, que era el propietario de la casa en la que vivía con Alan y Jake, luego de que padre e hijo se mudaran después del divorcio de Alan. La ex esposa de Alan y madre de Jake, Judith, permanece en sus vidas. Además aparece en la serie la madre de Alan, y la mordaz ama de casa, Berta.",
+        "img": "assets/img/fixtures/seguir-viendo/08_min.jpg",
+        "aparicion": "2003",
+        "temporadas": []
+    },
+    {
+        "id": 9,
+        "nombre": "Breaking Bad",
+        "bio": "Walter White un profesor de química de secundaria agobiado por problemas económicos para sostener a su familia y con un cáncer terminal, toma una decisión para ganar dinero y transforma un viejo vehículo en un laboratorio de metanfetaminas rodante.",
+        "img": "assets/img/fixtures/seguir-viendo/09_min.jpg",
+        "aparicion": "2008",
+        "temporadas": []
+    },
+    {
+        "id": 10,
+        "nombre": "Anatomía de Grey",
+        "bio": "Merdith Grey pertenece a un grupo de doctores jóvenes que laboran en el Hospital de Seattle, quienes tratan de equilibrar la vida personal y el trabajo.",
+        "img": "assets/img/fixtures/seguir-viendo/10_min.jpg",
+        "aparicion": "2005",
+        "temporadas": []
+    },
+    {
+        "id": 11,
+        "nombre": "Sobrenatural",
+        "bio": "Cuando el cielo y el infierno dejan caos luego de una serie de eventos apocalípticos recientemente ocurridos, monstruos, ángeles y demonios deambulan el territorio caótico. Sam escapa del infierno y convence a Dean de regresar a su antigua vida de cazador. Pero los hermanos se dan cuenta que ya no son los mismo y su relación cambia.",
+        "img": "assets/img/fixtures/seguir-viendo/11_min.jpg",
+        "aparicion": "2005",
+        "temporadas": []
+    },
+    {
+        "id": 12,
+        "nombre": "House of Cards",
+        "bio": "El Representante Francis Underwood es un político despiadado que planea venganza contra quienes lo han traicionado.",
+        "img": "assets/img/fixtures/seguir-viendo/12_min.jpg",
+        "aparicion": "2013",
+        "temporadas": []
+    },
+    {
+        "id": 13,
+        "nombre": "Iron fist",
+        "bio": "A young man is bestowed with incredible martial arts skills and a mystical force known as the Iron Fist.",
+        "img": "assets/img/fixtures/seguir-viendo/13_min.jpg",
+        "aparicion": "2017",
+        "temporadas": []
+    },
+    {
+        "id": 14,
+        "nombre": "Dukur Thakurpo",
+        "bio": "When Jibon Babu brings home a vivacious wife Uma, inappropriate things start happening as she becomes the fantasy and obsession of the other young tenants in the house.",
+        "img": "assets/img/fixtures/seguir-viendo/14_min.jpg",
+        "aparicion": "2017",
+        "temporadas": []
+    },
+    {
+        "id": 15,
+        "nombre": "The Daily Show",
+        "bio": "Una mirada humorística a las noticias, las tendencias, la cultura popular, política, el deportes y el entretenimiento.",
+        "img": "assets/img/fixtures/seguir-viendo/15_min.jpg",
+        "aparicion": "1996",
+        "temporadas": []
+    }
+]

@@ -1,0 +1,45 @@
+footer {
+    margin: 100px auto 0 auto;
+    max-width: 700px;
+}
+
+.footer__icons {
+    list-style-type: none;
+}
+.footer__icons i {
+    font-size: 1.8rem;
+    color: grey;
+}
+.footer__icons li {
+    display: inline-block;
+    margin-right: 2rem;
+}
+
+.footer__table {
+    display: flex;
+    align-content: space-between;
+    list-style-type: none;;
+    flex-wrap: wrap;
+}
+.footer__table li {
+    width: 10rem;
+}
+
+.footer__box {
+    border: 1px solid grey;
+    padding: 3px;
+    width: fit-content;
+    margin: 2rem 0;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+a:link {
+    color: grey;
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+    color: grey;
+}

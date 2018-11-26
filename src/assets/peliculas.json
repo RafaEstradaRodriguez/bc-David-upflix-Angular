@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "nombre": "Casablanca",
+      "bio": "A cynical nightclub owner protects an old flame and her husband from Nazis in Morocco.",
+      "img_min": "assets/img/peliculas/casablanca_min.jpg",
+      "img": "assets/img/peliculas/casablanca.jpg",
+      "aparicion": "1942"
+    },
+    {
+      "id": 2,
+      "nombre": "Blade Runner",
+      "bio": "A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.",
+      "img_min": "assets/img/peliculas/blade_runner_min.jpg",
+      "img": "assets/img/peliculas/blade_runner.jpg",
+      "aparicion": "1982"
+    },
+    {
+      "id": 3,
+      "nombre": "Golpe en la pequeña China",
+      "bio": "A rough-and-tumble trucker helps rescue his friend's fiance from an ancient sorcerer in a supernatural battle beneath Chinatown.",
+      "img_min": "assets/img/peliculas/golpe_pequena_china_min.jpg",
+      "img": "assets/img/peliculas/golpe_pequena_china.jpg",
+      "aparicion": "1986"
+    },
+    {
+      "id": 4,
+      "nombre": "Zoolander",
+      "bio": "At the end of his career, a clueless fashion model is brainwashed to kill the Prime Minister of Malaysia.",
+      "img_min": "assets/img/peliculas/zoolander_min.jpg",
+      "img": "assets/img/peliculas/zoolander.jpg",
+      "aparicion": "2001"
+    },
+    {
+      "id": 5,
+      "nombre": "Pesadilla en Elm Street",
+      "bio": "The monstrous spirit of a slain janitor seeks revenge by invading the dreams of teenagers whose parents were responsible for his untimely death.",
+      "img_min": "assets/img/peliculas/pesadilla_elm_street_min.jpg",
+      "img": "assets/img/peliculas/pesadilla_elm_street.jpg",
+      "aparicion": "1986"
+    },
+    {
+      "id": 6,
+      "nombre": "Yo, Robot",
+      "bio": "En el 2035, un detective de homicidios de Chicago persigue a un sofisticado robot acusado de matar a un científico.",
+      "img_min": "assets/img/peliculas/yo_robot_min.jpeg",
+      "img": "assets/img/peliculas/yo_robot.jpeg",
+      "aparicion": "2004"
+    },
+    {
+      "id": 7,
+      "nombre": "Kimi no na wa",
+      "bio": "Taki vive en Tokio y Mitsuha en un pequeño pueblo. Mientras duermen, intercambian cuerpos y comienzan a comunicarse entre ellos.",
+      "img_min": "assets/img/peliculas/kimi_no_na_wa_min.png",
+      "img": "assets/img/peliculas/kimi_no_na_wa.png",
+      "aparicion": "2016"
+    },
+    {
+      "id": 8,
+      "nombre": "Vengadores: Infinity War",
+      "bio": "Los superhéroes se alían para vencer al poderoso Thanos, el peor enemigo al que se han enfrentado. Si Thanos logra reunir las seis gemas del infinito: poder, tiempo, alma, realidad, mente y espacio, nadie podrá detenerlo.",
+      "img_min": "assets/img/peliculas/vengadores_min.jpeg",
+      "img": "assets/img/peliculas/vengadores.jpeg",
+      "aparicion": "2018"
+    }
+  ]

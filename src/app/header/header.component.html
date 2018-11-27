@@ -1,14 +1,16 @@
 <header>
     <nav class="UpFlix_nav">
         <div>
-
+            <a routerLink="home" routerLinkActive="active">
+                <img height="32px" alt="UpFlix" src="assets/logo_dark_bg.svg">
+            </a>
         </div>
         <ul>
-            <li><a href="#">Inicio</a></li>
-            <li><a href="#">Series</a></li>
-            <li><a href="#">Pel&iacute;culas</a></li>
-            <li><a href="#">A&ntilde;adido recientemente</a></li>
-            <li><a href="#">Mi lista</a></li>
+            <li><a routerLink="home" routerLinkActive="active">Inicio</a></li>
+            <li><a routerLink="series" routerLinkActive="active">Series</a></li>
+            <li><a routerLink="peliculas" routerLinkActive="active">Pel&iacute;culas</a></li>
+            <li><a routerLink="home" routerLinkActive="active">A&ntilde;adido recientemente</a></li>
+            <li><a routerLink="home" routerLinkActive="active">Mi lista</a></li>
         </ul>
     </nav>
     <app-search-form></app-search-form>

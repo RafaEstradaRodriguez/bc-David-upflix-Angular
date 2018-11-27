@@ -3,15 +3,22 @@ export class ElemMultimedia {
     public name;
     public img_url;
     public bio;
+    public releaseDate: string;
+    public valoration: number;
+
     constructor(
         id: number,
         name: string,
         img_url: string,
         bio: string,
+        releaseDate: string,
+        valoration: number
         ) {
         this.id = id;
         this.name = name;
         this.img_url = img_url;
         this.bio = bio;
+        this.releaseDate = releaseDate;
+        this.valoration = valoration;
     }
 }

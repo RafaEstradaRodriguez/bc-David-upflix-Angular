@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es-ES" prefix="og: http://ogp.me/ns#" class="no-js">
+<!--<![endif]-->
+<head>
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MVC8B2N');</script>
+<!-- End Google Tag Manager -->
+
+	<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+	    <meta name="theme-color" content="#ffffff"/>	<link rel="profile" href="http://gmpg.org/xfn/11" />
+            <script type="text/javascript">
+            if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+                var originalAddEventListener = EventTarget.prototype.addEventListener,
+                    oldWidth = window.innerWidth;
+
+                EventTarget.prototype.addEventListener = function (eventName, eventHandler, useCapture) {
+                    if (eventName === "resize") {
+                        originalAddEventListener.call(this, eventName, function (event) {
+                            if (oldWidth === window.innerWidth) {
+                                return;
+                            }
+                            else if (oldWidth !== window.innerWidth) {
+                                oldWidth = window.innerWidth;
+                            }
+                            if (eventHandler.handleEvent) {
+                                eventHandler.handleEvent.call(this, event);
+                            }
+                            else {
+                                eventHandler.call(this, event);
+                            };
+                        }, useCapture);
+                    }
+                    else {
+                        originalAddEventListener.call(this, eventName, eventHandler, useCapture);
+                    };
+                };
+            };
+        </script>
+		<title>Pagina no encontrada - Upgrade Hub</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v8.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Pagina no encontrada - Upgrade Hub" />
+<meta property="og:site_name" content="Upgrade Hub" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Upgrade Hub &raquo; Feed" href="https://upgrade-hub.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Upgrade Hub &raquo; RSS de los comentarios" href="https://upgrade-hub.com/comments/feed/" />
+<link rel='stylesheet' id='Gfonts-css'  href='https://fonts.googleapis.com/css?family=Lato&#038;ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='bodhi-svgs-attachment-css'  href='https://upgrade-hub.com/wp-content/plugins/svg-support/css/svgs-attachment.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='css-css'  href='https://upgrade-hub.com/wp-content/plugins/bb_mailchimp_builder/bestbugcore//assets/css/style.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='growl-css'  href='https://upgrade-hub.com/wp-content/plugins/bb_mailchimp_builder//bestbugcore/assets/admin/css/jquery.growl.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='bb-uml-css-css'  href='https://upgrade-hub.com/wp-content/plugins/bb_mailchimp_builder//assets/css/style.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='lato-css'  href='https://fonts.googleapis.com/css?family=Lato%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic&#038;ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-web-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400%2C600%2C700%7CRoboto+Condensed%3A400%2C600%2C700%7CLato%3A400%2C600%2C700&#038;ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-main-css'  href='https://upgrade-hub.com/wp-content/themes/dt-the7/css/main.min.css?ver=6.9.2' type='text/css' media='all' />
+<style id='dt-main-inline-css' type='text/css'>
+body #load {
+  display: block;
+  height: 100%;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  z-index: 9901;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transition: all .35s ease-out;
+  transition: all .35s ease-out;
+}
+.load-wrap {
+  width: 100%;
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+.load-wrap > svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+}
+#load {
+  background-color: #ffffff;
+}
+.uil-default rect:not(.bk) {
+  fill: #4abac6;
+}
+.uil-ring > path {
+  fill: #4abac6;
+}
+.ring-loader .circle {
+  fill: #4abac6;
+}
+.ring-loader .moving-circle {
+  fill: #4abac6;
+}
+.uil-hourglass .glass {
+  stroke: #4abac6;
+}
+.uil-hourglass .sand {
+  fill: #4abac6;
+}
+.spinner-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg width='75px' height='75px' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' preserveAspectRatio='xMidYMid' class='uil-default'%3E%3Crect x='0' y='0' width='100' height='100' fill='none' class='bk'%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%234abac6' transform='rotate(0 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%234abac6' transform='rotate(30 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.08333333333333333s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%234abac6' transform='rotate(60 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.16666666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%234abac6' transform='rotate(90 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.25s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%234abac6' transform='rotate(120 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.3333333333333333s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%234abac6' transform='rotate(150 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.4166666666666667s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%234abac6' transform='rotate(180 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%234abac6' transform='rotate(210 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5833333333333334s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%234abac6' transform='rotate(240 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.6666666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%234abac6' transform='rotate(270 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.75s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%234abac6' transform='rotate(300 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.8333333333333334s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%234abac6' transform='rotate(330 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.9166666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3C/svg%3E");
+}
+.ring-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='72' height='72' fill='%234abac6'%3E   %3Cpath opacity='.25' d='M16 0 A16 16 0 0 0 16 32 A16 16 0 0 0 16 0 M16 4 A12 12 0 0 1 16 28 A12 12 0 0 1 16 4'/%3E   %3Cpath d='M16 0 A16 16 0 0 1 32 16 L28 16 A12 12 0 0 0 16 4z'%3E     %3CanimateTransform attributeName='transform' type='rotate' from='0 16 16' to='360 16 16' dur='0.8s' repeatCount='indefinite' /%3E   %3C/path%3E %3C/svg%3E");
+}
+.hourglass-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='72' height='72' fill='%234abac6'%3E   %3Cpath transform='translate(2)' d='M0 12 V20 H4 V12z'%3E      %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline'  /%3E   %3C/path%3E   %3Cpath transform='translate(8)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.2' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline'  /%3E   %3C/path%3E   %3Cpath transform='translate(14)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.4' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E   %3Cpath transform='translate(20)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.6' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E   %3Cpath transform='translate(26)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.8' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E %3C/svg%3E");
+}
+
+</style>
+<link rel='stylesheet' id='dt-awsome-fonts-css'  href='https://upgrade-hub.com/wp-content/themes/dt-the7/fonts/FontAwesome/css/all.css?ver=6.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-fontello-css'  href='https://upgrade-hub.com/wp-content/themes/dt-the7/fonts/fontello/css/fontello.min.css?ver=6.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-custom-css'  href='https://upgrade-hub.com/wp-content/uploads/the7-css/custom.css?ver=e758a6137d12' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-media-css'  href='https://upgrade-hub.com/wp-content/uploads/the7-css/media.css?ver=e758a6137d12' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://upgrade-hub.com/wp-content/themes/dt-the7/style.css?ver=6.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-Defaults-css'  href='https://upgrade-hub.com/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='mpc-massive-style-css'  href='https://upgrade-hub.com/wp-content/plugins/mpc-massive/assets/css/mpc-styles.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='moove_gdpr_frontend-css'  href='https://upgrade-hub.com/wp-content/plugins/gdpr-cookie-compliance/dist/styles/gdpr-main.css?ver=1.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800,900|Lato:100,200,300,400,500,600,700,800,900&#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://upgrade-hub.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='smart-sections-css'  href='https://upgrade-hub.com/wp-content/plugins/smart-sections//assets/css/style.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='csshero-main-stylesheet-css'  href='https://upgrade-hub.com/wp-content/uploads/2018/08/csshero-static-style.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://upgrade-hub.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://upgrade-hub.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var dtLocal = {"themeUrl":"https:\/\/upgrade-hub.com\/wp-content\/themes\/dt-the7","passText":"Para ver esta publicaci\u00f3n protegida, introduce la contrase\u00f1a debajo:","moreButtonText":{"loading":"Cargando...","loadMore":"Cargar m\u00e1s"},"postID":"1","ajaxurl":"https:\/\/upgrade-hub.com\/wp-admin\/admin-ajax.php","contactMessages":{"required":"One or more fields have an error. Please check and try again.","terms":"Please accept the privacy policy."},"ajaxNonce":"dd41405a78","pageData":"","themeSettings":{"smoothScroll":"off","lazyLoading":false,"accentColor":{"mode":"solid","color":"#ffffff"},"desktopHeader":{"height":100},"floatingHeader":{"showAfter":150,"showMenu":true,"height":60,"logo":{"showLogo":true,"html":"<img class=\" preload-me\" src=\"https:\/\/upgrade-hub.com\/wp-content\/uploads\/2018\/09\/faviconupgrade.jpg\" srcset=\"https:\/\/upgrade-hub.com\/wp-content\/uploads\/2018\/09\/faviconupgrade.jpg 150w\" width=\"150\" height=\"152\"   sizes=\"150px\" alt=\"Upgrade Hub\" \/>","url":"https:\/\/upgrade-hub.com\/"}},"mobileHeader":{"firstSwitchPoint":1070,"secondSwitchPoint":778,"firstSwitchPointHeight":60,"secondSwitchPointHeight":60},"stickyMobileHeaderFirstSwitch":{"logo":{"html":""}},"stickyMobileHeaderSecondSwitch":{"logo":{"html":""}},"content":{"textColor":"#1e2a70","headerColor":"#4abac6"},"stripes":{"stripe1":{"textColor":"#787d85","headerColor":"#3b3f4a"},"stripe2":{"textColor":"#8b9199","headerColor":"#ffffff"},"stripe3":{"textColor":"#ffffff","headerColor":"#ffffff"}}},"VCMobileScreenWidth":"768"};
+var dtShare = {"shareButtonText":{"facebook":"Compartir en Facebook","twitter":"Tweet","pinterest":"Tweet","linkedin":"Compartir en Linkedin","whatsapp":"Compartir en Whatsapp","google":"Compartir en Google Plus","download":"Descargar imagen"},"overlayOpacity":"85"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://upgrade-hub.com/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=6.9.2'></script>
+<link rel='https://api.w.org/' href='https://upgrade-hub.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://upgrade-hub.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://upgrade-hub.com/wp-includes/wlwmanifest.xml" /> 
+
+<script>function gusta_fix_vc_full_width() { var elements=jQuery('[data-vc-full-width="true"]');jQuery.each(elements,function(key,item){var el=jQuery(this);el.addClass('vc_hidden');var el_full=el.next('.vc_row-full-width');if(el_full.length||(el_full=el.parent().next('.vc_row-full-width')),el_full.length){var el_margin_left=parseInt(el.css('margin-left'),10),el_margin_right=parseInt(el.css('margin-right'),10),offset=0-el_full.offset().left-el_margin_left,width=jQuery(window).width();if(el.css({position:'relative',left:offset,'box-sizing':'border-box',width:jQuery(window).width()}),!el.data('vcStretchContent')){var padding=-1*offset;0>padding&&(padding=0);var paddingRight=width-padding-el_full.width()+el_margin_left+el_margin_right;0>paddingRight&&(paddingRight=0),el.css({'padding-left':padding+'px','padding-right':paddingRight+'px'})}el.attr('data-vc-full-width-init','true'),el.removeClass('vc_hidden'),jQuery(document).trigger('vc-full-width-row-single',{el:el,offset:offset,marginLeft:el_margin_left,marginRight:el_margin_right,elFull:el_full,width:width})}}),jQuery(document).trigger('vc-full-width-row',elements); jQuery('.owl-carousel').each(function(){ jQuery(this).trigger('refresh.owl.carousel'); }); } jQuery( '#gusta-header-container' ).load(function() { gusta_fix_vc_full_width(); });</script>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://upgrade-hub.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) { 
+	var load = document.getElementById("load");
+	
+	var removeLoading = setTimeout(function() {
+		load.className += " loader-removed";
+	}, 500);
+});
+</script>
+<link rel="icon" href="https://upgrade-hub.com/wp-content/uploads/2018/09/faviconupgrade.jpg" type="image/jpeg" sizes="16x16"/><link rel="icon" href="https://upgrade-hub.com/wp-content/uploads/2018/09/faviconupgrade.jpg" type="image/jpeg" sizes="32x32"/><link rel="apple-touch-icon" href="https://upgrade-hub.com/wp-content/uploads/2018/08/Recurso-7.png"><link rel="apple-touch-icon" sizes="76x76" href="https://upgrade-hub.com/wp-content/uploads/2018/08/Recurso-7.png"><link rel="apple-touch-icon" sizes="120x120" href="https://upgrade-hub.com/wp-content/uploads/2018/08/Recurso-7.png"><link rel="apple-touch-icon" sizes="152x152" href="https://upgrade-hub.com/wp-content/uploads/2018/08/Recurso-7.png"><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<style id="gusta_inline_css">#section-10 { background-color: rgba(30,42,112,1) !important; } #nav-8482211355b660f9f7bb38w>ul>li>a { font-family:Lato !important;font-weight:400 !important;font-size:16px !important;line-height:19px !important;text-transform:uppercase !important;letter-spacing:1px !important;color:rgb(255, 255, 255) !important;line-height: 64px !important; } #nav-8482211355b660f9f7bb38w>ul>li>ul.gusta-dropdown-menu, #nav-8482211355b660f9f7bb38w>ul>li>div.gusta-mega-menu { margin-top:-100px !important;background-color:rgba(30, 42, 112, 0.7) !important; background-image: linear-gradient(to bottom, rgba(30, 42, 112, 0.7) 0%, rgba(30, 42, 112, 0.7) 100%) !important; } #nav-8482211355b660f9f7bb38w>ul>li>ul.gusta-dropdown-menu, #nav-8482211355b660f9f7bb38w>ul>li>div.gusta-mega-menu .gusta-overlay { background: linear-gradient(to bottom, rgba(30, 42, 112, 0.7) 0%, rgba(30, 42, 112, 0.7) 100%) !important; } #nav-8482211355b660f9f7bb38w>ul>li:hover>a { background-color:rgba(255, 255, 255, 0) !important; background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 100%) !important;text-decoration:underline !important;color:#4abac6 !important; } #nav-8482211355b660f9f7bb38w>ul>li:hover>a .gusta-overlay { background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 100%) !important; } #nav-8482211355b660f9f7bb38w>ul>li.current_page_item>a, #nav-8482211355b660f9f7bb38w>ul>li.gusta-mega-menu-active>a { background-color:rgba(255, 255, 255, 0) !important; background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 100%) !important; } #nav-8482211355b660f9f7bb38w>ul>li>ul>li>a, #nav-8482211355b660f9f7bb38w>ul>li>ul>li>ul>li>a { font-size:10px !important; } #nav-8482211355b660f9f7bb38w>ul>li>ul>li:hover>a, #nav-8482211355b660f9f7bb38w>ul>li>ul>li>ul>li:hover>a { background-color:rgba(30, 42, 112, 0.7) !important; background-image: linear-gradient(to bottom, rgba(30, 42, 112, 0.7) 0%, rgba(30, 42, 112, 0.7) 100%) !important; } #nav-8482211355b660f9f7bb38w>ul>li>ul>li:hover>a, #nav-8482211355b660f9f7bb38w>ul>li>ul>li>ul>li:hover>a .gusta-overlay { background: linear-gradient(to bottom, rgba(30, 42, 112, 0.7) 0%, rgba(30, 42, 112, 0.7) 100%) !important; } #nav-8482211355b660f9f7bb38w>ul>li>ul>li.current_page_item>a, #nav-8482211355b660f9f7bb38w>ul>li>ul>li>ul>li.current_page_item>a { background-color:rgba(30, 42, 112, 0.7) !important; background-image: linear-gradient(to bottom, rgba(30, 42, 112, 0.7) 0%, rgba(30, 42, 112, 0.7) 100%) !important; } #section-16 { background-color: rgba(56,72,129,1) !important; } #section-697 { background-color: rgba(56,72,129,1) !important; } #section-12 { background-color: rgba(58,73,129,1) !important;height: 45px !important; } #nav-14659663915b7d9cbe7ab21b660f9f7bb37>ul>li>a { font-family:Roboto !important;font-weight:200 !important;font-size:13px !important;letter-spacing:1px !important;color:rgb(255, 255, 255) !important;line-height: 64px !important; } #nav-14659663915b7d9cbe7ab21b660f9f7bb37>ul>li>ul.gusta-dropdown-menu, #nav-14659663915b7d9cbe7ab21b660f9f7bb37>ul>li>div.gusta-mega-menu { margin-top:-28px !important; } #nav-14659663915b7d9cbe7ab21b660f9f7bb37>ul>li:hover>a { background-color:rgba(255, 255, 255, 0) !important; background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 100%) !important;text-decoration:underline !important;color:#4abac6 !important; } #nav-14659663915b7d9cbe7ab21b660f9f7bb37>ul>li:hover>a .gusta-overlay { background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 100%) !important; } #nav-14659663915b7d9cbe7ab21b660f9f7bb37>ul>li.current_page_item>a, #nav-14659663915b7d9cbe7ab21b660f9f7bb37>ul>li.gusta-mega-menu-active>a { background-color:rgba(255, 255, 255, 0) !important; background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 100%) !important; } #nav-14659663915b7d9cbe7ab21b660f9f7bb37>ul>li>ul>li:hover>a, #nav-14659663915b7d9cbe7ab21b660f9f7bb37>ul>li>ul>li>ul>li:hover>a { background-color:#313f76 !important; background-image: linear-gradient(to bottom, rgba(49,63,118,1) 0%, rgba(49,63,118,1) 100%) !important; } #nav-14659663915b7d9cbe7ab21b660f9f7bb37>ul>li>ul>li:hover>a, #nav-14659663915b7d9cbe7ab21b660f9f7bb37>ul>li>ul>li>ul>li:hover>a .gusta-overlay { background: linear-gradient(to bottom, rgba(49,63,118,1) 0%, rgba(49,63,118,1) 100%) !important; } #section-588 { background-color: rgba(30,42,112,1) !important;height: 82px !important; } #section-toggle-63823825b71a732d6e78 { background-color:#1e2a70 !important; background-image: linear-gradient(to bottom, rgba(30,42,112,1) 0%, rgba(30,42,112,1) 100%) !important;background-color:#1e2a70 !important; background-image: linear-gradient(to bottom, rgba(30,42,112,1) 0%, rgba(30,42,112,1) 100%) !important; } #section-toggle-63823825b71a732d6e78 .gusta-overlay { background: linear-gradient(to bottom, rgba(30,42,112,1) 0%, rgba(30,42,112,1) 100%) !important; } #section-toggle-63823825b71a732d6e78:hover, #section-toggle-63823825b71a732d6e78.active:hover { background-color:#1e2a70 !important; background-image: linear-gradient(to bottom, rgba(30,42,112,1) 0%, rgba(30,42,112,1) 100%) !important;background-color:#1e2a70 !important; background-image: linear-gradient(to bottom, rgba(30,42,112,1) 0%, rgba(30,42,112,1) 100%) !important; } #section-toggle-63823825b71a732d6e78:hover, #section-toggle-63823825b71a732d6e78.active:hover .gusta-overlay { background: linear-gradient(to bottom, rgba(30,42,112,1) 0%, rgba(30,42,112,1) 100%) !important; } #section-toggle-63823825b71a732d6e78.active { background-color:#1e2a70 !important; background-image: linear-gradient(to bottom, rgba(30,42,112,1) 0%, rgba(30,42,112,1) 100%) !important;background-color:#1e2a70 !important; background-image: linear-gradient(to bottom, rgba(30,42,112,1) 0%, rgba(30,42,112,1) 100%) !important; } #section-toggle-63823825b71a732d6e78 i { color:#ffffff !important;font-size:35px !important; } #section-775 { background-color: rgba(30,42,112,1) !important;width: 100% !important; max-width: 100% !important; } #nav-10845124465b71a8f9bffa7n>ul>li>a { border-top-width:1 !important;border-bottom-width:1 !important;background-color:#f7f7f7 !important;border-color:rgb(176, 176, 176) !important;border-style:solid !important; background-image: linear-gradient(to bottom, rgba(247,247,247,1) 0%, rgba(247,247,247,1) 100%) !important;font-size:25px !important;color:#38317e !important;line-height: 97px !important; } #nav-10845124465b71a8f9bffa7n>ul>li>ul.gusta-dropdown-menu, #nav-10845124465b71a8f9bffa7n>ul>li>div.gusta-mega-menu { background-color:rgba(255, 255, 255, 0) !important; background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 100%) !important; } #nav-10845124465b71a8f9bffa7n>ul>li>ul.gusta-dropdown-menu, #nav-10845124465b71a8f9bffa7n>ul>li>div.gusta-mega-menu .gusta-overlay { background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 100%) !important; } #nav-10845124465b71a8f9bffa7n>ul>li>a .gusta-overlay { background: linear-gradient(to bottom, rgba(247,247,247,1) 0%, rgba(247,247,247,1) 100%) !important; } #nav-10845124465b71a8f9bffa7n>ul>li:hover>a { background-color:rgb(247, 247, 247) !important; background-image: linear-gradient(to bottom, rgb(247, 247, 247) 0%, rgb(247, 247, 247) 100%) !important; } #nav-10845124465b71a8f9bffa7n>ul>li:hover>a .gusta-overlay { background: linear-gradient(to bottom, rgb(247, 247, 247) 0%, rgb(247, 247, 247) 100%) !important; } #nav-10845124465b71a8f9bffa7n>ul>li.current_page_item>a, #nav-10845124465b71a8f9bffa7n>ul>li.gusta-mega-menu-active>a { background-color:rgb(247, 247, 247) !important; background-image: linear-gradient(to bottom, rgb(247, 247, 247) 0%, rgb(247, 247, 247) 100%) !important; } #nav-10845124465b71a8f9bffa7n>ul>li>ul>li>a, #nav-10845124465b71a8f9bffa7n>ul>li>ul>li>ul>li>a { padding-top:30px !important;padding-bottom:30px !important;background-color:rgba(56, 49, 126, 0.32) !important; background-image: linear-gradient(to bottom, rgba(56, 49, 126, 0.32) 0%, rgba(56, 49, 126, 0.32) 100%) !important;font-size:18px !important;color:#38317e !important; } #nav-10845124465b71a8f9bffa7n>ul>li>ul>li>a, #nav-10845124465b71a8f9bffa7n>ul>li>ul>li>ul>li>a .gusta-overlay { background: linear-gradient(to bottom, rgba(56, 49, 126, 0.32) 0%, rgba(56, 49, 126, 0.32) 100%) !important; } #nav-10845124465b71a8f9bffa7n>ul>li>ul>li:hover>a, #nav-10845124465b71a8f9bffa7n>ul>li>ul>li>ul>li:hover>a { background-color:rgba(56, 49, 126, 0.32) !important; background-image: linear-gradient(to bottom, rgba(56, 49, 126, 0.32) 0%, rgba(56, 49, 126, 0.32) 100%) !important; } #nav-10845124465b71a8f9bffa7n>ul>li>ul>li:hover>a, #nav-10845124465b71a8f9bffa7n>ul>li>ul>li>ul>li:hover>a .gusta-overlay { background: linear-gradient(to bottom, rgba(56, 49, 126, 0.32) 0%, rgba(56, 49, 126, 0.32) 100%) !important; } #nav-10845124465b71a8f9bffa7n>ul>li>ul>li.current_page_item>a, #nav-10845124465b71a8f9bffa7n>ul>li>ul>li>ul>li.current_page_item>a { background-color:rgba(56, 49, 126, 0.32) !important; background-image: linear-gradient(to bottom, rgba(56, 49, 126, 0.32) 0%, rgba(56, 49, 126, 0.32) 100%) !important; } .wf-wrap { box-sizing: border-box !important; } .wf-wrap .gusta-section>.wf-wrap { padding: 0; margin: 0; } .masthead, .mobile-header-space, .masthead, .dt-close-mobile-menu-icon, .dt-mobile-header { display: none; } footer { display: none; } @media screen and (min-width : 768) { #section-10 { display: block; } } @media screen and (max-width : 767px) { #section-10 { display: none !important; } }.vc_custom_1535220061987{background-color: #1e2a70 !important;} @media screen and (min-width : 768) { #section-16 { display: block; } } @media screen and (max-width : 767px) { #section-16 { display: none !important; } }.vc_custom_1533413956569{margin-top: 70px !important;background-color: #1e2a70 !important;}.vc_custom_1534148368868{background-color: #1e2a70 !important;}.bb_custom_1533414526826{color:rgba(255,255,255,0.7)!important;font-family:roboto!important;font-size:14px!important;font-weight:100!important;}.bb_custom_1535367239231{color:rgba(255,255,255,0.7)!important;font-family:roboto!important;font-size:14px!important;font-weight:100!important;} @media screen and (max-width : 768) { #section-697 { display: block; } } @media screen and (min-width : 768px) { #section-697 { display: none !important; } }.vc_custom_1533413956569{margin-top: 70px !important;background-color: #1e2a70 !important;}.vc_custom_1534148368868{background-color: #1e2a70 !important;}.bb_custom_1535367218912{color:rgba(255,255,255,0.7)!important;font-family:Lato!important;font-size:14px!important;font-weight:300!important;}.bb_custom_1534157491816{color:rgba(255,255,255,0.7)!important;font-family:Lato!important;font-size:14px!important;font-weight:300!important;} @media screen and (min-width : 768) { #section-12 { display: block; } } @media screen and (max-width : 767px) { #section-12 { display: none !important; } }.vc_custom_1534959231011{margin-top: -10px !important;}.vc_custom_1535055860205{margin-top: 7px !important;} @media screen and (max-width : 768) { #section-588 { display: block; } } @media screen and (min-width : 768px) { #section-588 { display: none !important; } }.vc_custom_1536767398348{margin-left: 25px !important;} @media screen and (max-width : 768) { #section-775 { display: block; } } @media screen and (min-width : 768px) { #section-775 { display: none !important; } }.vc_custom_1534502303545{margin-top: 20px !important;background-color: #ffffff !important;}.vc_custom_1536767370337{margin-left: 25px !important;}.bb_custom_1535392706555{text-align:center!important;}.gusta-section .wf-wrap { padding: 0 50px; width: 1300px; }</style>
+<style id="yellow-pencil">
+/*
+	The following CSS generated by YellowPencil Plugin.
+	https://waspthemes.com/yellow-pencil
+*/
+#moove_gdpr_cookie_info_bar .moove-gdpr-cookie-notice p{text-align:justify;font-family:'Lato', sans-serif;font-weight:400 !important;font-size:14px;}.moove-gdpr-cookie-notice p > span{font-size:12px !important;}@media (max-width:767px){.vertical .gusta-dropdown-menu a{text-align:center;}.wf-wrap .vc_custom_1534502303545 .mpc-column .vc_column-inner .wpb_wrapper .gusta-mobile-align-center .vertical .gusta-navigation .menu-item .gusta-dropdown-menu .menu-item a{font-size:15px !important;}#gusta-sticky #section-775 .wf-wrap .vc_custom_1534502303545 .mpc-column .vc_column-inner .wpb_wrapper .gusta-mobile-align-center .vertical .gusta-navigation .menu-item i{bottom:auto !important;}.vertical .menu-item i{right:auto;top:28px !important;left:456px;}}@media (max-width:320px){.vertical .menu-item i{right:auto;left:220px !important;bottom:auto !important;top:28px;}}@media (max-width:535px){#gusta-sticky #section-775 .wf-wrap .vc_custom_1534502303545 .mpc-column .vc_column-inner .wpb_wrapper .gusta-mobile-align-center .vertical .gusta-navigation .menu-item i{bottom:auto !important;}.vertical .menu-item i{right:auto;top:28px;left:328px;}}@media (max-width:400px){.vertical .menu-item i{right:auto;top:28px;left:261px;}#gusta-sticky #section-775 .wf-wrap .vc_custom_1534502303545 .mpc-column .vc_column-inner .wpb_wrapper .gusta-mobile-align-center .vertical .gusta-navigation .menu-item i{bottom:auto !important;}}
+</style>    <link rel="alternate" href="https://upgrade-hub.com" hreflang="es-es" />
+
+</head>
+<body class="error404 disabled-hover-icons dt-responsive-on srcset-enabled btn-flat custom-btn-color custom-btn-hover-color bold-icons phantom-fade phantom-shadow-decoration phantom-custom-logo-on sticky-mobile-header top-header first-switch-logo-left first-switch-menu-right second-switch-logo-left second-switch-menu-right right-mobile-menu layzr-loading-on popup-message-style the7-ver-6.9.2 wpb-js-composer js-comp-ver-5.5.2 vc_responsive"><div id="gusta-header-container" role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader"><div id="gusta-header"><!-- header-section -->
+				<nav class="section gusta-section header-section gusta-show-section section-header gusta-navbar-default  section-overlapping section-align-none" id="section-10"><div class="section-container"><div class="wf-wrap"><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_custom_1535220061987 vc_row-has-fill vc_row-no-padding vc_row-o-content-middle vc_row-flex mpc-row"><div class="wpb_column vc_column_container vc_col-sm-12 cs-1-1 mpc-column" data-column-id="mpc_column-225bc06585891cd"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_row-o-content-middle vc_row-flex mpc-row"><div class="wpb_column vc_column_container vc_col-sm-4 mpc-column" data-column-id="mpc_column-715bc0658586e32"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 10px"><span class="vc_empty_space_inner"></span></div>
+<div class="ult-just-icon-wrapper  "><div class="align-icon" style="text-align:center;">
+<a class="aio-tooltip 5bc0658586b8b" href="https://upgrade-hub.com/" data-toggle="tooltip" data-placement=""><div class="aio-icon-img " style="font-size:180px;display:inline-block;">
+	<img class="img-icon" alt="null" src="https://upgrade-hub.com/wp-content/uploads/2018/08/logo@1x.svg"></div></a></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 mpc-column" data-column-id="mpc_column-205bc06585889b6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="gusta-align-left  "><div id="nav-8482211355b660f9f7bb38w" class=" ss-element gusta-nav horizontal"><ul id="menu-principal" class="gusta-navigation"><li id="gusta-menu-item-1148" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children gusta-menu-item-1148 gusta-dropdown"><a title="Cursos" href="https://upgrade-hub.com/#cursoshome" class="gusta-dropdown-toggle">Cursos</a><i class="fa fa-plus gusta-menu-toggle"></i>
+<ul role="menu" class=" gusta-dropdown-menu"><li id="gusta-menu-item-2202" class="menu-item menu-item-type-post_type menu-item-object-page gusta-menu-item-2202"><a title="BOOTCAMP WEB  FULL STACK DEVELOPER (10 semanas)" href="https://upgrade-hub.com/curso-full-stack-developer-10-semanas/">BOOTCAMP WEB  FULL STACK DEVELOPER (10 semanas)</a></li>
+	<li id="gusta-menu-item-2217" class="menu-item menu-item-type-post_type menu-item-object-page gusta-menu-item-2217"><a title="BOOTCAMP WEB  FULL STACK DEVELOPER (24 semanas)" href="https://upgrade-hub.com/curso-full-stack-developer-24-semanas-2/">BOOTCAMP WEB  FULL STACK DEVELOPER (24 semanas)</a></li>
+</ul></li>
+<li id="gusta-menu-item-1621" class="menu-item menu-item-type-post_type menu-item-object-page gusta-menu-item-1621"><a title="Carrera profesional" href="https://upgrade-hub.com/carrera-profesional-2/">Carrera profesional</a></li>
+<li id="gusta-menu-item-1672" class="menu-item menu-item-type-post_type menu-item-object-page gusta-menu-item-1672"><a title="Empresas" href="https://upgrade-hub.com/empresas-2/">Empresas</a></li>
+<li id="gusta-menu-item-1359" class="menu-item menu-item-type-post_type menu-item-object-page gusta-menu-item-1359"><a title="Contacto" href="https://upgrade-hub.com/contacto/">Contacto</a></li>
+</ul></div></div><div class="gusta-clear gusta-mobile-clear"></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-2 mpc-column" data-column-id="mpc_column-705bc0658588f2d"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
+<div class=" ubtn-ctn-center "><a class="ubtn-link ult-adjust-bottom-margin ubtn-center ubtn-custom " href="https://upgrade-hub.com/mas-informacion-del-curso/"><button type="button" id="ubtn-8382" class="ubtn ult-adjust-bottom-margin ult-responsive ubtn-custom ubtn-no-hover-bg  none  ubtn-center   tooltip-5bc0658588e13" data-hover="" data-border-color="#4abac6" data-bg="#4abac6" data-hover-bg="" data-border-hover="" data-shadow-hover="" data-shadow-click="none" data-shadow="" data-shd-shadow="" data-ultimate-target="#ubtn-8382" data-responsive-json-new='{"font-size":"desktop:16px;","line-height":"desktop:19px;"}' style="font-family:'Lato';font-weight:900;width:150px;min-height:35px;padding:12px px;border-radius:100px;border-width:1px;border-color:#4abac6;border-style:solid;background: #4abac6;color: #ffffff;"><span class="ubtn-hover" style="background-color:"></span><span class="ubtn-data ubtn-text ">AP&Uacute;NTATE</span></button></a></div></div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="clear"></div></div><!-- end container --></div><!-- end .section-container --></nav><!-- end header-section --></div></div>
+<!-- The7 6.9.2 -->
+<div id="load" class="hourglass-loader">
+	<div class="load-wrap"></div>
+</div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MVC8B2N"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="page">
+	<a class="skip-link screen-reader-text" href="#content">Saltar al contenido</a>
+
+<div class="masthead inline-header center widgets full-height shadow-decoration small-mobile-menu-icon dt-parent-menu-clickable show-device-logo show-mobile-logo" role="banner">
+
+			<div class="top-bar top-bar-line-hide">
+			<div class="top-bar-bg" ></div>
+			<div class="left-widgets mini-widgets"><span class="mini-contacts phone show-on-desktop in-menu-first-switch in-menu-second-switch">011 322 44 56</span><span class="mini-contacts address show-on-desktop in-top-bar-left hide-on-second-switch">8500 Beverly Boulevard Los Angeles, CA 90048</span></div>			<div class="right-widgets mini-widgets"><div class="soc-ico show-on-desktop in-menu-first-switch in-menu-second-switch disabled-bg accent-border border-on hover-accent-bg hover-disabled-border  hover-border-off"><a title="Facebook" href="/" target="_blank" class="facebook"><span class="soc-font-icon"></span><span class="screen-reader-text">Facebook</span></a><a title="Twitter" href="/" target="_blank" class="twitter"><span class="soc-font-icon"></span><span class="screen-reader-text">Twitter</span></a><a title="Google+" href="/" target="_blank" class="google"><span class="soc-font-icon"></span><span class="screen-reader-text">Google+</span></a><a title="Dribbble" href="/" target="_blank" class="dribbble"><span class="soc-font-icon"></span><span class="screen-reader-text">Dribbble</span></a></div></div>		</div>
+
+	<header class="header-bar">
+
+						<div class="branding">
+					<div id="site-title" class="assistive-text">Upgrade Hub</div>
+					<div id="site-description" class="assistive-text">Upgrade Hub | Bootcamp Madrid</div>
+					<a href="https://upgrade-hub.com/"><img class=" preload-me" src="https://upgrade-hub.com/wp-content/uploads/2018/09/faviconupgrade.jpg" srcset="https://upgrade-hub.com/wp-content/uploads/2018/09/faviconupgrade.jpg 150w, https://upgrade-hub.com/wp-content/uploads/2018/09/faviconupgrade.jpg 150w" width="150" height="152"   sizes="150px" alt="Upgrade Hub" /></a>				</div>
+		<ul id="primary-menu" class="main-nav underline-decoration upwards-line outside-item-remove-margin" role="menu"><li class="menu-item page_item page-item-1008 first"><a  href='https://upgrade-hub.com/mas-informacion-del-curso/'><span class="menu-item-text"><span class="menu-text">Apúntate</span></span></a></li><li class="menu-item page_item page-item-1609"><a  href='https://upgrade-hub.com/carrera-profesional-2/'><span class="menu-item-text"><span class="menu-text">Carrera profesional</span></span></a></li><li class="menu-item page_item page-item-266"><a  href='https://upgrade-hub.com/contacto/'><span class="menu-item-text"><span class="menu-text">Contacto</span></span></a></li><li class="menu-item page_item page-item-1888"><a  href='https://upgrade-hub.com/legal/'><span class="menu-item-text"><span class="menu-text">Cookies y Políticas de Privacidad</span></span></a></li><li class="menu-item page_item page-item-1421"><a  href='https://upgrade-hub.com/curso-full-stack-developer-10-semanas-old/'><span class="menu-item-text"><span class="menu-text">CURSO  FULL STACK DEVELOPER 10 SEMANAS &#8211; OLD</span></span></a></li><li class="menu-item page_item page-item-2206"><a  href='https://upgrade-hub.com/curso-full-stack-developer-24-semanas-2/'><span class="menu-item-text"><span class="menu-text">CURSO  FULL STACK DEVELOPER 24 SEMANAS</span></span></a></li><li class="menu-item page_item page-item-1848"><a  href='https://upgrade-hub.com/curso-full-stack-developer-24-semanas-old/'><span class="menu-item-text"><span class="menu-text">CURSO  FULL STACK DEVELOPER 24 SEMANAS &#8211; OLD</span></span></a></li><li class="menu-item page_item page-item-1975"><a  href='https://upgrade-hub.com/curso-full-stack-developer-10-semanas/'><span class="menu-item-text"><span class="menu-text">Curso Diseño y Programación Web Full Stack Developer 10 semanas</span></span></a></li><li class="menu-item page_item page-item-260"><a  href='https://upgrade-hub.com/cursos/'><span class="menu-item-text"><span class="menu-text">Cursos</span></span></a></li><li class="menu-item page_item page-item-1635"><a  href='https://upgrade-hub.com/empresas-2/'><span class="menu-item-text"><span class="menu-text">Empresas</span></span></a></li><li class="menu-item page_item page-item-2267"><a  href='https://upgrade-hub.com/gracias-por-contactar-con-upgrade-hub/'><span class="menu-item-text"><span class="menu-text">Gracias por contactar con Upgrade Hub</span></span></a></li><li class="menu-item page_item page-item-2270"><a  href='https://upgrade-hub.com/gracias-por-contactar-con-upgrade-hub-empresas/'><span class="menu-item-text"><span class="menu-text">Gracias por contactar con Upgrade Hub Empresas</span></span></a></li><li class="menu-item page_item page-item-2264"><a  href='https://upgrade-hub.com/gracias-por-solicitar-mas-informacion/'><span class="menu-item-text"><span class="menu-text">Gracias por solicitar información del curso Full Stack Developer</span></span></a></li><li class="menu-item page_item page-item-2249"><a  href='https://upgrade-hub.com/gracias-por-solicitar-informacion-curso-full-stack-developer-10-semanas/'><span class="menu-item-text"><span class="menu-text">Gracias por solicitar información del curso Full Stack Developer | 10 Semanas</span></span></a></li><li class="menu-item page_item page-item-2261"><a  href='https://upgrade-hub.com/gracias-por-solicitar-informacion-curso-full-stack-developer-24-semanas/'><span class="menu-item-text"><span class="menu-text">Gracias por solicitar información del curso Full Stack Developer | 24 Semanas</span></span></a></li><li class="menu-item page_item page-item-18"><a  href='https://upgrade-hub.com/home/'><span class="menu-item-text"><span class="menu-text">Home OLD</span></span></a></li><li class="menu-item page_item page-item-2"><a  href='https://upgrade-hub.com/pagina-ejemplo/'><span class="menu-item-text"><span class="menu-text">Página de ejemplo</span></span></a></li><li class="menu-item page_item page-item-1341"><a  href='https://upgrade-hub.com/'><span class="menu-item-text"><span class="menu-text">UPGRADE | Mucho más que código | Full Stack Developer Bootcamp</span></span></a></li></ul>
+		<div class="mini-widgets"><div class="mini-search show-on-desktop near-logo-first-switch near-logo-second-switch">	<form class="searchform" role="search" method="get" action="https://upgrade-hub.com/">
+
+	<label for="search" class="screen-reader-text">Buscar:</label>
+		<input type="text" class="field searchform-s" name="s" value="" placeholder="Escribe y pulsa enter &hellip;" />
+				<input type="submit" class="assistive-text searchsubmit" value="Ir!" />
+		<a href="#go" id="trigger-overlay" class="submit">Search</a>
+	</form></div></div>
+	</header>
+
+</div><div class='dt-close-mobile-menu-icon'><span></span></div>
+<div class='dt-mobile-header'>
+	<ul id="mobile-menu" class="mobile-main-nav" role="menu">
+		<li class="menu-item page_item page-item-1008 first"><a  href='https://upgrade-hub.com/mas-informacion-del-curso/'><span class="menu-item-text"><span class="menu-text">Apúntate</span></span></a></li><li class="menu-item page_item page-item-1609"><a  href='https://upgrade-hub.com/carrera-profesional-2/'><span class="menu-item-text"><span class="menu-text">Carrera profesional</span></span></a></li><li class="menu-item page_item page-item-266"><a  href='https://upgrade-hub.com/contacto/'><span class="menu-item-text"><span class="menu-text">Contacto</span></span></a></li><li class="menu-item page_item page-item-1888"><a  href='https://upgrade-hub.com/legal/'><span class="menu-item-text"><span class="menu-text">Cookies y Políticas de Privacidad</span></span></a></li><li class="menu-item page_item page-item-1421"><a  href='https://upgrade-hub.com/curso-full-stack-developer-10-semanas-old/'><span class="menu-item-text"><span class="menu-text">CURSO  FULL STACK DEVELOPER 10 SEMANAS &#8211; OLD</span></span></a></li><li class="menu-item page_item page-item-2206"><a  href='https://upgrade-hub.com/curso-full-stack-developer-24-semanas-2/'><span class="menu-item-text"><span class="menu-text">CURSO  FULL STACK DEVELOPER 24 SEMANAS</span></span></a></li><li class="menu-item page_item page-item-1848"><a  href='https://upgrade-hub.com/curso-full-stack-developer-24-semanas-old/'><span class="menu-item-text"><span class="menu-text">CURSO  FULL STACK DEVELOPER 24 SEMANAS &#8211; OLD</span></span></a></li><li class="menu-item page_item page-item-1975"><a  href='https://upgrade-hub.com/curso-full-stack-developer-10-semanas/'><span class="menu-item-text"><span class="menu-text">Curso Diseño y Programación Web Full Stack Developer 10 semanas</span></span></a></li><li class="menu-item page_item page-item-260"><a  href='https://upgrade-hub.com/cursos/'><span class="menu-item-text"><span class="menu-text">Cursos</span></span></a></li><li class="menu-item page_item page-item-1635"><a  href='https://upgrade-hub.com/empresas-2/'><span class="menu-item-text"><span class="menu-text">Empresas</span></span></a></li><li class="menu-item page_item page-item-2267"><a  href='https://upgrade-hub.com/gracias-por-contactar-con-upgrade-hub/'><span class="menu-item-text"><span class="menu-text">Gracias por contactar con Upgrade Hub</span></span></a></li><li class="menu-item page_item page-item-2270"><a  href='https://upgrade-hub.com/gracias-por-contactar-con-upgrade-hub-empresas/'><span class="menu-item-text"><span class="menu-text">Gracias por contactar con Upgrade Hub Empresas</span></span></a></li><li class="menu-item page_item page-item-2264"><a  href='https://upgrade-hub.com/gracias-por-solicitar-mas-informacion/'><span class="menu-item-text"><span class="menu-text">Gracias por solicitar información del curso Full Stack Developer</span></span></a></li><li class="menu-item page_item page-item-2249"><a  href='https://upgrade-hub.com/gracias-por-solicitar-informacion-curso-full-stack-developer-10-semanas/'><span class="menu-item-text"><span class="menu-text">Gracias por solicitar información del curso Full Stack Developer | 10 Semanas</span></span></a></li><li class="menu-item page_item page-item-2261"><a  href='https://upgrade-hub.com/gracias-por-solicitar-informacion-curso-full-stack-developer-24-semanas/'><span class="menu-item-text"><span class="menu-text">Gracias por solicitar información del curso Full Stack Developer | 24 Semanas</span></span></a></li><li class="menu-item page_item page-item-18"><a  href='https://upgrade-hub.com/home/'><span class="menu-item-text"><span class="menu-text">Home OLD</span></span></a></li><li class="menu-item page_item page-item-2"><a  href='https://upgrade-hub.com/pagina-ejemplo/'><span class="menu-item-text"><span class="menu-text">Página de ejemplo</span></span></a></li><li class="menu-item page_item page-item-1341"><a  href='https://upgrade-hub.com/'><span class="menu-item-text"><span class="menu-text">UPGRADE | Mucho más que código | Full Stack Developer Bootcamp</span></span></a></li>	</ul>
+	<div class='mobile-mini-widgets-in-menu'></div>
+</div>
+		<div class="page-title title-center solid-bg breadcrumbs-mobile-off page-title-responsive-enabled">
+			<div class="wf-wrap">
+
+				<div class="page-title-head hgroup"><h1 >Página no encontrada</h1></div><div class="page-title-breadcrumbs"><div class="assistive-text">Estás aquí:</div><ol class="breadcrumbs text-small" xmlns:v="http://rdf.data-vocabulary.org/#"><li typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="https://upgrade-hub.com/" title="">Inicio</a></li><li class="current">Error 404</li></ol></div>			</div>
+		</div>
+
+		
+
+<div id="main" class="sidebar-none sidebar-divider-vertical"  >
+
+	
+    <div class="main-gradient"></div>
+    <div class="wf-wrap">
+    <div class="wf-container-main">
+
+	
+
+			<!-- Content -->
+			<div id="content" class="content" role="main" style="min-height: 500px; text-align:center">
+
+				<article id="post-0" class="post error404 not-found">
+
+					<h1 class="entry-title">¡Epa! Esta página no la hemos encontrado.</h1>
+
+					<p>No se ha encontrado nada en este lugar. Intenta usar la casilla de búsqueda debajo.</p>
+
+						<form class="searchform" role="search" method="get" action="https://upgrade-hub.com/">
+		<label for="search" class="screen-reader-text">Buscar:</label>
+		<input type="text" class="field searchform-s" name="s" value="" placeholder="Escribe y pulsa enter &hellip;" />
+		<input type="submit" class="assistive-text searchsubmit" value="Ir!" />
+		<a href="#go" class="submit"></a>
+	</form>
+				</article><!-- #post-0 .post .error404 .not-found -->
+
+			</div><!-- #content .site-content -->
+
+			
+
+			</div><!-- .wf-container -->
+		</div><!-- .wf-wrap -->
+
+	
+	</div><!-- #main -->
+
+	
+
+	
+	<!-- !Footer -->
+	<footer id="footer" class="footer solid-bg">
+
+		
+<!-- !Bottom-bar -->
+<div id="bottom-bar" class="solid-bg logo-left" role="contentinfo">
+    <div class="wf-wrap">
+        <div class="wf-container-bottom">
+
+			
+                <div class="wf-float-left">
+
+					&nbsp;Dream-Theme &mdash; truly <a href="http://dream-theme.com" target="_blank">premium WordPress themes</a>
+                </div>
+
+			
+            <div class="wf-float-right">
+
+				
+            </div>
+
+        </div><!-- .wf-container-bottom -->
+    </div><!-- .wf-wrap -->
+</div><!-- #bottom-bar -->
+	</footer><!-- #footer -->
+
+
+	<a href="#" class="scroll-top"><span class="screen-reader-text">Ir a Tienda</span></a>
+
+</div><!-- #page -->
+
+<div id="gusta-footer" role="contentInfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter"><!-- footer-section -->
+				<div class="section gusta-section footer-section gusta-show-section section-footer  section-align-none" id="section-16"><div class="wf-wrap"><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding vc_row-o-content-middle vc_row-flex mpc-row"><div class="wpb_column vc_column_container vc_col-sm-12 mpc-column" data-column-id="mpc_column-975bc065858be60"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1533413956569 vc_row-has-fill mpc-row"><div class="wpb_column vc_column_container vc_col-sm-3 mpc-column" data-column-id="mpc_column-45bc065858a161"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 mpc-column" data-column-id="mpc_column-345bc065858a7b9"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
+<div class="ult-just-icon-wrapper  "><div class="align-icon" style="text-align:center;">
+<a class="aio-tooltip 5bc065858a564" href="https://upgrade-hub.com/" data-toggle="tooltip" data-placement=""><div class="aio-icon-img " style="font-size:260px;display:inline-block;">
+	<img class="img-icon" alt="null" src="https://upgrade-hub.com/wp-content/uploads/2018/08/logo@1x.svg"></div></a></div></div><div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 mpc-column" data-column-id="mpc_column-875bc065858aa14"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1534148368868 vc_row-has-fill mpc-row"><div class="wpb_column vc_column_container vc_col-sm-2 mpc-column" data-column-id="mpc_column-925bc065858af5a"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 mpc-column" data-column-id="mpc_column-685bc065858b650"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  bb_custom_1533414526826">
+		<div class="wpb_wrapper">
+			<p>2018 Upgrade. Todos los derechos reservados.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 mpc-column" data-column-id="mpc_column-945bc065858ba79"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  bb_custom_1535367239231">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><a href="https://upgrade-hub.com/legal/">Pol&iacute;tica de privacidad y Cookies&nbsp;</a> &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; <a href="https://upgrade-hub.com/contacto/">Contacto</a></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2 mpc-column" data-column-id="mpc_column-255bc065858bccf"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="clear"></div></div><!-- end container --></div><!-- end footer-section --><!-- footer-section -->
+				<div class="section gusta-section footer-section gusta-show-section section-footer  section-align-none" id="section-697"><div class="wf-wrap"><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding vc_row-o-content-middle vc_row-flex mpc-row"><div class="wpb_column vc_column_container vc_col-sm-12 mpc-column" data-column-id="mpc_column-885bc065858d98f"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1533413956569 vc_row-has-fill mpc-row"><div class="wpb_column vc_column_container vc_col-sm-12 mpc-column" data-column-id="mpc_column-795bc065858cc62"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
+<div class="ult-just-icon-wrapper  "><div class="align-icon" style="text-align:center;">
+<a class="aio-tooltip 5bc065858cb6d" href="https://upgrade-hub.com/" data-toggle="tooltip" data-placement=""><div class="aio-icon-img " style="font-size:260px;display:inline-block;">
+	<img class="img-icon" alt="null" src="https://upgrade-hub.com/wp-content/uploads/2018/08/logo@1x.svg"></div></a></div></div></div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1534148368868 vc_row-has-fill mpc-row"><div class="wpb_column vc_column_container vc_col-sm-12 mpc-column" data-column-id="mpc_column-765bc065858d81b"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+
+	<div class="wpb_text_column wpb_content_element  bb_custom_1535367218912">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><a href="https://upgrade-hub.com/legal/">Pol&iacute;ticas de privacidad y Cookies</a></p>
+<p style="text-align: center;"><a href="https://upgrade-hub.com/contacto/">Contacto</a></p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  bb_custom_1534157491816">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;">2018 Upgrade. Todos los derechos reservados.</p>
+
+		</div>
+	</div>
+<div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="clear"></div></div><!-- end container --></div><!-- end footer-section --></div><div id="gusta-sticky"><!-- custom-section -->
+				<div class="section gusta-section custom-section gusta-show-section section-sticky  sticky-top-center" id="section-12"><div class="wf-wrap"><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_row-no-padding vc_row-o-content-top vc_row-flex mpc-row"><div class="wpb_column vc_column_container vc_col-sm-5 mpc-column" data-column-id="mpc_column-1005bc065858e2e8"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1535055860205">
+		<div class="wpb_wrapper">
+			<p><a href="https://upgrade-hub.com/"><img class="aligncenter wp-image-1007322" src="https://upgrade-hub.com/wp-content/uploads/2018/08/Recurso-2-2.svg" alt="" width="186" height="30"></a></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 mpc-column" data-column-id="mpc_column-405bc065858e648"><div class="vc_column-inner vc_custom_1534959231011"><div class="wpb_wrapper"><div class="gusta-align-left  "><div id="nav-14659663915b7d9cbe7ab21b660f9f7bb37" class=" ss-element gusta-nav horizontal"><ul id="menu-principal" class="gusta-navigation"><li id="gusta-menu-item-1148" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children gusta-menu-item-1148 gusta-dropdown"><a title="Cursos" href="https://upgrade-hub.com/#cursoshome" class="gusta-dropdown-toggle">Cursos</a><i class="fa fa-plus gusta-menu-toggle"></i>
+<ul role="menu" class=" gusta-dropdown-menu"><li id="gusta-menu-item-2202" class="menu-item menu-item-type-post_type menu-item-object-page gusta-menu-item-2202"><a title="BOOTCAMP WEB  FULL STACK DEVELOPER (10 semanas)" href="https://upgrade-hub.com/curso-full-stack-developer-10-semanas/">BOOTCAMP WEB  FULL STACK DEVELOPER (10 semanas)</a></li>
+	<li id="gusta-menu-item-2217" class="menu-item menu-item-type-post_type menu-item-object-page gusta-menu-item-2217"><a title="BOOTCAMP WEB  FULL STACK DEVELOPER (24 semanas)" href="https://upgrade-hub.com/curso-full-stack-developer-24-semanas-2/">BOOTCAMP WEB  FULL STACK DEVELOPER (24 semanas)</a></li>
+</ul></li>
+<li id="gusta-menu-item-1621" class="menu-item menu-item-type-post_type menu-item-object-page gusta-menu-item-1621"><a title="Carrera profesional" href="https://upgrade-hub.com/carrera-profesional-2/">Carrera profesional</a></li>
+<li id="gusta-menu-item-1672" class="menu-item menu-item-type-post_type menu-item-object-page gusta-menu-item-1672"><a title="Empresas" href="https://upgrade-hub.com/empresas-2/">Empresas</a></li>
+<li id="gusta-menu-item-1359" class="menu-item menu-item-type-post_type menu-item-object-page gusta-menu-item-1359"><a title="Contacto" href="https://upgrade-hub.com/contacto/">Contacto</a></li>
+</ul></div></div><div class="gusta-clear gusta-mobile-clear"></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-1 mpc-column" data-column-id="mpc_column-95bc065858e8c8"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="clear"></div></div><!-- end container --></div><!-- end custom-section --><!-- custom-section -->
+				<div class="section gusta-section custom-section gusta-show-section section-sticky  sticky-top-center" id="section-588"><div class="wf-wrap"><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding vc_row-o-content-middle vc_row-flex mpc-row"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-xs-6 mpc-column" data-column-id="mpc_column-885bc065858f2f1"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
+<div class="ult-just-icon-wrapper   vc_custom_1536767398348"><div class="align-icon" style="text-align:left;">
+<a class="aio-tooltip 5bc065858f201" href="https://upgrade-hub.com/" data-toggle="tooltip" data-placement=""><div class="aio-icon-img " style="font-size:190px;">
+	<img class="img-icon" alt="null" src="https://upgrade-hub.com/wp-content/uploads/2018/08/logo@1x.svg"></div></a></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-xs-6 mpc-column" data-column-id="mpc_column-865bc065858f817"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 10px"><span class="vc_empty_space_inner"></span></div>
+<div class="gusta-align-right  "><button id="section-toggle-63823825b71a732d6e78" class=" ss-element gusta-section-toggle gusta-icon-link gusta-big" data-toggle="section-775"><i class="vc-material vc-material-menu gusta-icon"></i><i class="vc-material vc-material-close gusta-active-icon"></i></button></div><div class="gusta-clear gusta-mobile-clear"></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="clear"></div></div><!-- end container --></div><!-- end custom-section --><!-- custom-section -->
+				<div class="section gusta-section custom-section gusta-show-section section-sticky  sticky-top-center" id="section-775"><div class="wf-wrap"><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding vc_row-o-content-middle vc_row-flex mpc-row"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-xs-6 mpc-column" data-column-id="mpc_column-205bc06585901e3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
+<div class="ult-just-icon-wrapper   vc_custom_1536767370337"><div class="align-icon" style="text-align:left;">
+<a class="aio-tooltip 5bc06585900ec" href="https://upgrade-hub.com/" data-toggle="tooltip" data-placement=""><div class="aio-icon-img " style="font-size:190px;">
+	<img class="img-icon" alt="null" src="https://upgrade-hub.com/wp-content/uploads/2018/08/logo@1x.svg"></div></a></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-xs-6 mpc-column" data-column-id="mpc_column-145bc06585906dd"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 10px"><span class="vc_empty_space_inner"></span></div>
+<div class="gusta-align-right  "><button id="section-toggle-63823825b71a732d6e78" class=" ss-element gusta-section-toggle gusta-icon-link gusta-big active" data-toggle="section-775"><i class="vc-material vc-material-menu gusta-icon"></i><i class="vc-material vc-material-close gusta-active-icon"></i></button></div><div class="gusta-clear gusta-mobile-clear"></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_custom_1534502303545 vc_row-has-fill vc_row-no-padding mpc-row"><div class="wpb_column vc_column_container vc_col-sm-12 cs-2-2 mpc-column" data-column-id="mpc_column-605bc065859169a"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="gusta-align-center  gusta-mobile-align-center gusta-mobile-inline"><div id="nav-10845124465b71a8f9bffa7n" class=" ss-element gusta-nav vertical"><ul id="menu-principal-1" class="gusta-navigation"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children gusta-menu-item-1148 gusta-dropdown"><a title="Cursos" href="https://upgrade-hub.com/#cursoshome" class="gusta-dropdown-toggle">Cursos</a><i class="fa fa-plus gusta-menu-toggle"></i>
+<ul role="menu" class=" gusta-dropdown-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page gusta-menu-item-2202"><a title="BOOTCAMP WEB  FULL STACK DEVELOPER (10 semanas)" href="https://upgrade-hub.com/curso-full-stack-developer-10-semanas/">BOOTCAMP WEB  FULL STACK DEVELOPER (10 semanas)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page gusta-menu-item-2217"><a title="BOOTCAMP WEB  FULL STACK DEVELOPER (24 semanas)" href="https://upgrade-hub.com/curso-full-stack-developer-24-semanas-2/">BOOTCAMP WEB  FULL STACK DEVELOPER (24 semanas)</a></li>
+</ul></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page gusta-menu-item-1621"><a title="Carrera profesional" href="https://upgrade-hub.com/carrera-profesional-2/">Carrera profesional</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page gusta-menu-item-1672"><a title="Empresas" href="https://upgrade-hub.com/empresas-2/">Empresas</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page gusta-menu-item-1359"><a title="Contacto" href="https://upgrade-hub.com/contacto/">Contacto</a></li>
+</ul></div></div><div class="gusta-clear gusta-mobile-clear"></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="clear"></div></div><!-- end container --></div><!-- end custom-section --></div>    <div id="moove_gdpr_cookie_info_bar" class="moove-gdpr-info-bar-hidden moove-gdpr-align-center moove-gdpr-dark-scheme gdpr_infobar_postion_bottom">
+        <div class="moove-gdpr-info-bar-container">
+            <div class="moove-gdpr-info-bar-content">
+                <div class="moove-gdpr-cookie-notice">
+    <p>Utilizamos cookies propias y de terceros para darte acceso a nuestros contenidos, entender cómo los usas y mejorarlo.<span class="Apple-converted-space" style="font-family: 'normal Arial', Helvetica, sans-serif; font-size: 14px;"> </span><span style="font-family: 'normal Arial', Helvetica, sans-serif; font-size: 14px;">Si Aceptas la política de cookies, consideramos que aceptas su uso.</span><span style="font-size: 11pt;"> Puedes obtener más información a través de nuestra </span><a href="https://upgrade-hub.com/legal/">Política de Privacidad y Cookies</a><span style="font-size: 11pt;">. Puedes</span><span style="font-size: 14.6667px;"> evitar su uso con esta finalidad en </span><span style="font-size: 11pt;"><span data-href="#moove_gdpr_cookie_modal" class="change-settings-button">- CONFIGURAR POLÍTICA DE COOKIES O NO ACEPTAR -</span></span></p>
+</div>
+<!--  .moove-gdpr-cookie-notice -->                <div class="moove-gdpr-button-holder">
+    <button class="mgbutton moove-gdpr-infobar-allow-all" rel="nofollow">ACEPTO POLÍTICA DE COOKIES</button>
+    </div>
+<!--  .button-container -->            </div>
+            <!-- moove-gdpr-info-bar-content -->
+        </div>
+        <!-- moove-gdpr-info-bar-container -->
+    </div>
+    <!-- #moove_gdpr_cookie_info_bar  -->
+<link rel='stylesheet' id='js_composer_front-css'  href='https://upgrade-hub.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ColumnShadowsForVC-css'  href='https://upgrade-hub.com/wp-content/plugins/vc-super-bundle/features/shadows/shadows/css/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css-css'  href='https://upgrade-hub.com/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_material-css'  href='https://upgrade-hub.com/wp-content/plugins/js_composer/assets/css/lib/vc-material/vc_material.min.css?ver=5.5.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://upgrade-hub.com/wp-content/themes/dt-the7/js/main.min.js?ver=6.9.2'></script>
+<script type='text/javascript' src='https://upgrade-hub.com/wp-content/plugins/bb_mailchimp_builder//bestbugcore/assets/admin/js/jquery.growl.js?ver=1.3.3'></script>
+<script type='text/javascript' src='https://upgrade-hub.com/wp-content/plugins/bb_mailchimp_builder//assets/js/jquery.form-validator.min.js?ver=2.3.26'></script>
+<script type='text/javascript' src='https://upgrade-hub.com/wp-content/plugins/bb_mailchimp_builder/bestbugcore//assets/js/jquery.cookie.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bb_ultimate_mailchimp = {"ajaxurl":"https:\/\/upgrade-hub.com\/wp-admin\/admin-ajax.php","ajaxnonce":"9582c0c5e2"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://upgrade-hub.com/wp-content/plugins/bb_mailchimp_builder//assets/js/script.js?ver=1.0'></script>
+<script type='text/javascript' src='https://upgrade-hub.com/wp-content/plugins/vc_responsive_pro//assets/js/script.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _mpc_ajax = "https:\/\/upgrade-hub.com\/wp-admin\/admin-ajax.php";
+var _mpc_animations = "0";
+var _mpc_scroll_to_id = "1";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://upgrade-hub.com/wp-content/plugins/mpc-massive/assets/js/mpc-vendor.min.js?ver=2.3.3'></script>
+<script type='text/javascript' src='https://upgrade-hub.com/wp-content/plugins/mpc-massive/assets/js/mpc-scripts.min.js?ver=2.3.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var moove_frontend_gdpr_scripts = {"ajaxurl":"https:\/\/upgrade-hub.com\/wp-admin\/admin-ajax.php","post_id":"1","plugin_dir":"https:\/\/upgrade-hub.com\/wp-content\/plugins\/gdpr-cookie-compliance","is_page":"","enabled_default":{"third_party":0,"advanced":0},"is_single":"","current_user":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://upgrade-hub.com/wp-content/plugins/gdpr-cookie-compliance/dist/scripts/main.js?ver=1.1.6'></script>
+<script type='text/javascript' src='https://upgrade-hub.com/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.compatibility.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var smart_sections = {"ajaxurl":"https:\/\/upgrade-hub.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://upgrade-hub.com/wp-content/plugins/smart-sections/assets/js/scripts.js?ver=1'></script>
+<script type='text/javascript' src='https://upgrade-hub.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.5.2'></script>
+<script type='text/javascript' src='https://upgrade-hub.com/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=5.5.2'></script>
+<style>
+    #moove_gdpr_cookie_modal,#moove_gdpr_cookie_info_bar{font-family:Nunito,sans-serif}#moove_gdpr_save_popup_settings_button{background-color:#1e2a70;color:#fff}#moove_gdpr_save_popup_settings_button:hover{background-color:#000}#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton,#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton{background-color:#4abac6}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton{background-color:#4abac6;border-color:#4abac6}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton:hover{background-color:#fff;color:#4abac6}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i{background-color:#4abac6;border:1px solid #4abac6}#moove_gdpr_cookie_modal .gdpr-acc-link{line-height:0;font-size:0;color:transparent}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close:hover i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button:hover{color:#4abac6}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button{color:#1e2a70}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button i{color:#1e2a70}#moove_gdpr_cookie_modal.lity-hide{display:none}</style><!-- V1 -->
+<div id="moove_gdpr_cookie_modal" class="lity-hide">
+    <div class="moove-gdpr-modal-content moove-clearfix logo-position-left moove_gdpr_modal_theme_v1">
+        <a href="#" class="moove-gdpr-modal-close" rel="nofollow"><i class="moovegdpr-arrow-close"></i></a>
+        <div class="moove-gdpr-modal-left-content">
+            <div class="moove-gdpr-company-logo-holder">
+    <img src="https://upgrade-hub.com/wp-content/uploads/2018/08/LOPD-RIGMA.jpg" alt="" class="img-responsive" />
+</div>
+<!--  .moove-gdpr-company-logo-holder -->            <ul id="moove-gdpr-menu">
+                <li class="menu-item-on menu-item-privacy_overview menu-item-selected">
+    <button data-href="#privacy_overview" class="moove-gdpr-tab-nav"><i class="moovegdpr-privacy-overview"></i> <span>Política de Privacidad y de Cookies</span></button>
+</li>
+
+    <li class="menu-item-strict-necessary-cookies menu-item-off">
+        <button data-href="#strict-necessary-cookies" class="moove-gdpr-tab-nav"><i class="moovegdpr-strict-necessary"></i> <span>Cookies estrictamente necesarias</span></button>
+    </li>
+
+
+    <li class="menu-item-off menu-item-third_party_cookies">
+        <button data-href="#third_party_cookies" class="moove-gdpr-tab-nav"><i class="moovegdpr-3rd-party"></i> <span>3rd Party Cookies</span></button>
+    </li>
+
+
+            </ul>
+            <div class="moove-gdpr-branding-cnt">
+    </div>
+<!--  .moove-gdpr-branding -->        </div>
+        <!--  .moove-gdpr-modal-left-content -->
+        <div class="moove-gdpr-modal-right-content">
+            <div class="moove-gdpr-modal-title">
+                 
+            </div>
+            <!-- .moove-gdpr-modal-ritle -->
+            <div class="main-modal-content">
+
+                <div class="moove-gdpr-tab-content">
+                    <div id="privacy_overview" class="moove-gdpr-tab-main">
+            <h3 class="tab-title">Política de Privacidad y de Cookies</h3>
+        <div class="moove-gdpr-tab-main-content">
+    	<p>Fecha de entrada en vigor de este Aviso de privacidad: 27 de agosto de 2018.</p>
+<p>¿Quién es el responsable del tratamiento de tus datos?</p>
+<p>¿Con qué finalidades tratamos la información?</p>
+<p>¿De dónde procede y qué información que tratamos?</p>
+<p>¿Qué son las cookies?</p>
+<p>¿Cuáles son tus derechos en relación con la información que tratamos?</p>
+<p>¿Durante cuánto tiempo conservaremos la información?</p>
+<p>¿Cuál es la legitimación para el tratamiento de la información?</p>
+<p>¿Dónde guardamos tus datos y quién tiene acceso a la información?</p>
+<p>Cambios en la política de privacidad y cookies</p>
+<p>En UPGRADE HUB S.L. deseamos proteger y respetar tu privacidad, para lo cual adoptamos las medidas de seguridad establecidas en las normas legales. A continuación, te explicamos cómo y para qué recabamos tus datos. La información que nos proporcionas es confidencial, y solo será revelada en los casos contemplados a continuación y cuando una administración pública o judicial nos lo solicite o sea necesario en algún otro caso contemplado legalmente.</p>
+<p>Al crear una cuenta de usuario, al solicitar información o al participar en una formación, nos estás facilitando directamente información como tu identidad o tu medio de pago. Asimismo, al visitar nuestra página web, usar nuestras cuentas de redes sociales, abrir tu correo electrónico, visualizar nuestros anuncios publicados en nuestros medios digitales o en los terceros desde tu ordenador, tu tableta, tu teléfono o desde cualquier otro dispositivo, nos estas facilitando de forma automatizada información sobre tus hábitos de navegación y sobre los dispositivos y software que utilizas.</p>
+<p>1.-¿Quién es el responsable del tratamiento de tus datos?</p>
+<p>Denominación social: UPGRADE HUB S.L.<br />
+CIF: B88134622<br />
+Dirección postal: Cruz del Sur Nº16 9 D 28007 Madrid<br />
+Inscripción Registro Mercantil Madrid: Tomo 37870, Libro: 0, Sección: 8, Hoja: M674433, Inscripción: 1<br />
+Teléfono: 674 10 84 74<br />
+Puedes contactar con nuestro responsable de privacidad si tienes alguna duda sobre cómo tratamos tu información enviando un correo electrónico a privacidad@upgrade-hub.com</p>
+<p>La política establecida en esta página es aplicable a los datos de los usuarios recabados por UPGRADE HUB S.L. a través de:</p>
+<p>medios no digitales como, por ejemplo, formularios en soporte papel;</p>
+<p>medios digitales, como, por ejemplo, formularios online, correos electrónicos, SMS, webs, blogs propiedad de UPGRADE HUB S.L., cuentas de redes sociales donde UPGRADE HUB S.L. está presente o visualización de anuncios (en adelante, medios digitales).</p>
+<p>A los efectos de esta política de privacidad, son usuarios, en general, las personas que:</p>
+<p>nos facilitan información al cumplimentar cualquiera de los formularios disponibles, al crear una cuenta en UPGRADE HUB S.L., al solicitar una formación u otro servicio o al participar en las promociones que desarrollamos,</p>
+<p>usan los medios digitales de UPGRADE HUB S.L..</p>
+<p>2.- ¿Con qué finalidades tratamos la información?</p>
+<p>Tratamos tus datos personales para las siguientes finalidades:</p>
+<p>Navegar por la web y utilizar nuestros medios digitales</p>
+<p>Tratamos la información para permitir y facilitarte el acceso y navegación a nuestros medios digitales. Por ejemplo, para ofrecerte la versión de página web o aplicación que mejor se adapte a las características del dispositivo desde el que accedes, a su idioma, etc., así como para prestarte los servicios que ofrecemos a través de los mismos como, por ejemplo, información sobre las formaciones que ofrecemos, acceso a contenidos especializados o remitirte comunicaciones por correo electrónico o SMS.</p>
+<p>Gestionar los servicios que nos solicites</p>
+<p>En estos casos tratamos la información que nos facilitas, por ejemplo, para prestarte la formación que nos solicites, para que puedas acceder a contenidos especializados, para que puedas obtener los descuentos que ofrecemos o participar en las promociones que realizamos, así como para resolver las cuestiones y reclamaciones que nos plantees sobre los servicios que prestamos a través de los medios que están a tu disposición.</p>
+<p>Mejorar los servicios que ofrecemos y la seguridad</p>
+<p>Otros de los usos para los que empleamos la información es para realizar análisis del uso de nuestros medios, análisis del éxito de nuestras formaciones y análisis de los resultados de las acciones publicitarias que realizamos, todo ello para lograr el mantenimiento, la mejora y la eficacia de nuestros servicios, proteger mejor la seguridad de tus datos y de nuestros medios digitales y detectar y prevenir el fraude, todo ello a través de la realización de informes estadísticos basados en la información que nos facilitas y que generas al utilizar nuestros servicios y medios digitales o al visualizar nuestros anuncios.</p>
+<p>Realizar publicidad de nuestros productos en nuestros medios digitales y de terceros</p>
+<p>La información que tratamos la usamos para enviarte publicidad de nuestras formaciones a través de correo electrónico, SMS y del resto de medios digitales de los que disponemos, tanto sin segmentar como de manera segmentada, de acuerdo con los datos de los que disponemos sobre tu perfil. Para la realización de la segmentación, tratamos datos de terceros obtenidos a través de distintas fuentes,</p>
+<p>También tratamos la información mencionada de tu perfil para enviarte publicidad segmentada y no segmentada sobre nuestros productos y servicios a través de otros medios digitales de los que no somos propietarios como, por ejemplo, en periódicos o revistas digitales, en blogs especializados, apps móviles o en redes sociales.</p>
+<p>Cumplir con obligaciones legales y otros requerimientos</p>
+<p>Finalmente, también es necesario tratemos tus datos para el cumplimiento de nuestras obligaciones legales establecidas, por ejemplo, en la normativa fiscal, la de protección de datos o en la de servicios de la sociedad de la información, así como para atender los requerimientos que se nos soliciten desde las autoridades públicas.</p>
+<p>3.-¿De dónde procede y qué información que tratamos?</p>
+<p>La información que tratamos para elaborar tu perfil procede de:</p>
+<p>Datos que nos has facilitado directamente</p>
+<p>En estos casos, la información nos la has facilitado tú directamente a través de los formularios que figuran en nuestros medios, ya sean digitales o en formato papel. Es información como tu nombre, apellidos, dirección de correo electrónico, número de teléfono o tu tarjeta de crédito.</p>
+<p>Datos recabados de forma automatizada a través de cookies</p>
+<p>Igualmente, recabamos datos de forma automatizada a través de cookies sobre la navegación y uso que haces de nuestra web, de nuestras cuentas de redes sociales, de nuestros correos electrónicos o SMS, sobre la visualización de los anuncios publicados en nuestros medios digitales o en otros medios de terceros y sobre los comentarios, opiniones e interacciones con</p>
+<p>nuestras cuentas en redes sociales, como por ejemplo, las opciones de “me gusta” que realices desde tu perfil o cuando te hayas hecho seguidor de nuestras cuentas en redes sociales.</p>
+<p>En estos casos, la información que recabamos se refiere a los datos de contexto y hábitos de navegación y uso en nuestros medios digitales o de terceros, de las consultas de búsqueda, de la visualización de los anuncios como, por ejemplo, la versión del navegador, la dirección IP, los sitios que has visitado, la hora de apertura de los correos electrónicos, las páginas o secciones de nuestra web, cuentas de redes sociales que has visitado, desde qué lugar te conectas, el terminal donde has visto el anuncio y la hora a la que lo has visto, el lugar o la página web desde donde accedes, la red social, periódico digital o medio digital donde visualizas el anuncio, los comentarios que realizas en una red social donde estemos, la hora o el contenido del mismo.</p>
+<p>Datos de redes sociales</p>
+<p>En redes sociales, tenemos acceso a los perfiles sociales de las personas o entidades que deciden seguir nuestras cuentas de redes sociales. Accedemos a la información disponible según el nivel de privacidad que cada usuario haya marcado en cada red, por ejemplo, si no haces público tu email a otros contactos, no lo veremos.</p>
+<p>4.-¿Qué son las cookies?</p>
+<p>Para la obtención automatizada de los datos antes descritos utilizamos distintas técnicas para su captación como, por ejemplo, cookies.</p>
+<p>Una cookie es un dato, fichero o dispositivo de almacenamiento y recuperación de datos (DARD), que se descarga en tu dispositivo al acceder a nuestras páginas web, cuentas de redes sociales o al recibir un correo electrónico. Las cookies permiten almacenar y recuperar de forma automatizada datos sobre tu perfil, el uso que haces de los citados medios digitales y del equipo o dispositivo desde el que accedes a los mismos.</p>
+<p>Existen diferentes tipos de cookies, como:</p>
+<p>Cookies propias: son aquéllas que se envían a tu dispositivo desde un dominio gestionado por nosotros desde donde prestamos nuestros servicios y donde esté alojada nuestra página web o nuestro servicio de correo electrónico.</p>
+<p>Cookies de terceros: son aquéllas que se envían a tu dispositivo desde un equipo o dominio que no es gestionado por nosotros, sino por otra entidad con la finalidad de que nos preste un servicio y, en algunos casos, para usar ellas mismas la información generada para prestar sus propios servicios a terceros, todo ello de acuerdo con un contrato que hemos celebrado con esa entidad con la finalidad, entre otras, de que trate de forma controlada la información a la puede acceder.</p>
+<p>Cookies de sesión: son un tipo de cookies diseñadas para recabar y almacenar datos durante el tiempo en que accedes a una página web, servicio, correo electrónico o red social.</p>
+<p>Cookies persistentes: son un tipo de cookies en el que los datos siguen almacenados en tu dispositivo y pueden ser accedidos y tratados durante un periodo definido por la entidad responsable de la cookie, que puede ir de unos minutos a varios años.</p>
+<p>Cookies de análisis: son aquéllas que, bien tratadas por nosotros o por terceros, nos permiten cuantificar y calificar a los usuarios de nuestras webs, blogs, correos electrónicos o redes sociales en las que estamos presentes para realizar la medición y análisis estadístico de la utilización que hacen los usuarios de los mismos.</p>
+<p>Cookies publicitarias: son aquéllas que permiten la gestión de forma eficaz de los espacios publicitarios que incluimos en sus propios medios digitales, de acuerdo con criterios no comportamentales de los usuarios, como el contenido de la web o la frecuencia en la que se muestran los anuncios.</p>
+<p>Cookies de publicidad comportamental: son aquéllas que permiten la gestión de forma eficaz los espacios publicitarios que tenemos en nuestros medios digitales, webs, blogs, apps o correos electrónicos y en otros soportes publicitarios de terceros en base al comportamiento y utilización de los servicios por parte de nuestros usuarios, obtenida a través de la observación continuada del uso de nuestros servicios o de terceros, lo que permite desarrollar un perfil específico para mostrar publicidad en función del mismo.</p>
+<p>Cookies de redes sociales: son aquéllas que ofrecen la posibilidad de conectarse a las mismas y compartir contenidos con nosotros y otros usuarios de las redes, gestionar los espacios publicitarios existentes en las mismas y obtener información de tu perfil y sobre el uso que haces de nuestras cuentas en redes sociales.</p>
+<p>5.- ¿Cuáles son tus derechos en relación con la información que tratamos?</p>
+<p>En general</p>
+<p>Tienes los siguientes derechos en relación con tus datos:</p>
+<p>Derecho a saber si estamos tratando tus datos personales, a acceder a ellos y a solicitar información acerca de cómo y por qué los tratamos y, en su caso, solicitar una copia.</p>
+<p>Derecho a rectificar y modificar los datos cuando no sean correctos o sean inexactos y solicitar su supresión, cuando ya no sean necesarios para los fines para los que los recogimos.</p>
+<p>Por motivos relacionados con tu situación particular, tienes derecho a oponerte a que tratemos tus datos y, en su caso, a revocar el consentimiento que nos hayas dado para ello.</p>
+<p>En determinadas circunstancias, tienes derecho a solicitar que limitemos el tratamiento de tus datos, en cuyo caso únicamente los conservaremos para el ejercicio y defensa de reclamaciones, para aquello para lo que nos des tu consentimiento o para atender responsabilidades legales.</p>
+<p>Derecho a presentar una reclamación ante la Agencia Española de Protección de Datos, tal y como se informa a través de su página web.</p>
+<p>El ejercicio y alcance de tus derechos está regulado por la normativa aplicable.</p>
+<p>Puedes ejercer tus derechos a través de tu perfil de cuenta en , enviando un un correo electrónico a privacidad@upgrade-hub.com o por correo postal a la dirección</p>
+<p>Respecto a los datos que obtenemos mediante cookies</p>
+<p>Si deseas que no utilicemos cookies para analizar el uso que haces de nuestros servicios automáticamente, puedes pulsar aquí. [enlace opt-out Google analytics]</p>
+<p>Si deseas controlar bloquear por completo el uso de cookies tanto en este sitio web como en cualquier otro, puedes hacerlo a través de las opciones de control de tu navegador o de los ajustes de tu móvil u otro dispositivo con el que accedas a nuestros medios digitales. Por ejemplo, lo puedes hacer desde estos enlaces a través de las opciones de privacidad de:</p>
+<p>Google Chrome</p>
+<p>Mozilla Firefox</p>
+<p>Internet Explorer</p>
+<p>Safari</p>
+<p>Safari para IOS (iPhone y iPad)</p>
+<p>Chrome para Android</p>
+<p>Ten en cuenta que algunas funcionalidades de esta página web pueden requerir el uso de cookies.</p>
+<p>6.-¿Durante cuánto tiempo conservaremos la información?</p>
+<p>Mantendremos la información mientras sea necesario para la gestión de la solicitud que nos realices o para la prestación del servicio o formación que nos solicites y para las finalidades para las que fue recabada, mientras no revoques tu consentimiento o no nos solicites su supresión.</p>
+<p>No obstante, cuando nos solicites por los medios establecidos la supresión de tus datos, estos se mantendrán debidamente bloqueados sin que los usemos, mientras puedan ser necesarios para el ejercicio o defensa de reclamaciones o pueda derivarse de su tratamiento algún tipo de responsabilidad legal o contractual para lo cual sea necesaria su recuperación. Una vez transcurrido este plazo de tiempo, tus datos serán eliminados definitivamente.</p>
+<p>En los casos en los que obtenemos datos automáticamente a través de cookies, ten en cuenta que algunas pueden estar activas durante años, no obstante, puedes limitar su uso en el tiempo eliminándolas de los navegadores o dispositivos a través de los enlaces mencionados en el apartado sobre tus derechos.</p>
+<p>7.-¿Cuál es la legitimación para el tratamiento de la información?</p>
+<p>Tratamos tus datos en base al cumplimiento del contrato que acordemos cuando los tratemos para prestarte la formación u otros servicios que nos solicites. En base a nuestro interés legítimo o, en su caso, a tu consentimiento los podremos tratar para el resto de finalidades, como el envío de publicidad sobre nuestras formaciones y servicios o para mejorar nuestra oferta.</p>
+<p>Cuando Para prestarte la formación o cualquier otro servicio que nos solicites,</p>
+<p>8.- ¿Dónde guardamos tus datos y quién tiene acceso a la información?</p>
+<p>Protegemos la información que recabamos estableciendo las medidas de seguridad técnicas y administrativas señaladas en las normas legales, de forma que la información queda protegida contra el acceso, la indisponibilidad, la divulgación o el uso no autorizado.</p>
+<p>A tu información personal únicamente pueden acceder nuestros trabajadores, los cuales son conocedores de los usos para los que pueden utilizarla y sus limitaciones, las autoridades públicas y judiciales competentes cuando nos los requieran y así lo exija la normativa aplicable y otras empresas proveedoras para prestarte los servicios que nos hayas solicitado como, por ejemplo, los profesores o colaboradores externos que puedan impartir una formación, la empresa titular la de la herramienta de gestión de base de datos o la de gestión de envío de correos electrónicos.</p>
+<p>Con cada de una de estas empresas hemos celebrado un contrato de confidencialidad a través del cual se comprometen a utilizar única y exclusivamente tus datos con estas finalidades y a no</p>
+<p>utilizarlos para ninguna otra,  de forma que una vez que se dé por finalizada la prestación del servicio están obligadas a eliminar la información que hayan obtenido o conservarla debidamente bloqueada y protegida sin que puedan usarla, mientras pueda ser necesaria para el cumplimiento de una obligación legal, para el ejercicio o defensa de reclamaciones contractuales que deban ser atendidas.</p>
+<p>En los casos en que estas empresas se encuentren en algún país que no ofrezca un nivel de protección de datos similar al nuestro, nos aseguramos de que las mismas cumplen con las medidas de seguridad necesarias y equivalentes a las que tenemos nosotros, establecidas en las normas legales aplicables.</p>
+<p>Asimismo, para tratar la información que obtenemos de forma automatizada sobre la forma y uso que haces de nuestros servicios, medios digitales, tus dispositivos o de los anuncios que publicamos en nuestros medios digitales o de terceros, utilizamos las cookies de medición de</p>
+<p>9.- Cambios en la política de privacidad y cookies</p>
+<p>Podemos actualizar unilateralmente la información establecida en esta página. Las actualizaciones son debidas a cambios tecnológicos, normativos o la oferta de nuevos servicios que afectan a la política de privacidad y cookies.</p>
+    </div>
+    <!--  .moove-gdpr-tab-main-content -->
+</div>
+<!-- #privacy_overview -->                        <div id="strict-necessary-cookies" class="moove-gdpr-tab-main" style="display:none">
+        <h3 class="tab-title">Cookies estrictamente necesarias</h3>
+        <div class="moove-gdpr-tab-main-content">
+            <p><span style="font-family: Lato;">La cookie estrictamente necesaria debe estar habilitada en todo momento para que podamos guardar sus preferencias para la configuración de cookies.</span></p>
+            <div class="moove-gdpr-status-bar ">
+                <form>
+                    <fieldset>
+                        <label class="switch">
+                            <span class='gdpr-acc-link'>disable</span>
+                            <input type="checkbox"  value="check" id="moove_gdpr_strict_cookies">
+                            <span class="slider round" data-text-enable="Activar" data-text-disabled="Desactivar"></span>
+                        </label>
+                    </fieldset>
+                </form>
+            </div>
+            <!-- .moove-gdpr-status-bar -->
+                            <div class="moove-gdpr-strict-warning-message" style="margin-top: 10px;">
+                    <p><span style="font-family: Lato;">Si deshabilita esta cookie, no podremos guardar sus preferencias. Esto significa que cada vez que visite este sitio web deberá habilitar o deshabilitar nuevamente las cookies.</span></p>
+                </div>
+                <!--  .moove-gdpr-tab-main-content -->
+                                                    
+        </div>
+        <!--  .moove-gdpr-tab-main-content -->
+    </div>
+    <!-- #strict-necesarry-cookies -->
+                                                                            </div>
+                <!--  .moove-gdpr-tab-content -->
+            </div>
+            <!--  .main-modal-content -->
+            <div class="moove-gdpr-modal-footer-content">
+                <div class="moove-gdpr-button-holder">
+    <button class="mgbutton moove-gdpr-modal-allow-all button-visible" rel="nofollow">Activar todo</button>
+    <button class="mgbutton moove-gdpr-modal-save-settings button-visible" rel="nofollow">Guardar Cambios</button>
+</div>
+<!--  .moove-gdpr-button-holder -->            </div>
+            <!--  .moove-gdpr-modal-footer-content -->
+        </div>
+        <!--  .moove-gdpr-modal-right-content -->
+
+        <div class="moove-clearfix"></div>
+
+    </div>
+    <!--  .moove-gdpr-modal-content -->
+</div>
+<!-- #moove_gdpr_cookie_modal  -->
+	<script type="text/javascript" id="gusta_dynamic_js">jQuery('#section-775').removeClass('gusta-show-section gusta-higher').addClass('gusta-hide-section hide-by-default'); if (jQuery('#section-775').hasClass('section-vertical')) { jQuery('body').addClass('gusta-body-zero-margin'); }jQuery(document).on('ready',function(){ 'use strict'; jQuery('.masthead').first().remove(); jQuery('.mobile-header-space').first().remove(); jQuery('.masthead').first().remove(); jQuery('.dt-close-mobile-menu-icon').first().remove(); jQuery('.dt-mobile-header').first().remove(); jQuery('footer').last().remove(); var fixed=1; var sectionheight; jQuery(window).on('load resize scroll',function(){ var scrolled = jQuery(this).scrollTop(); if(( scrolled < 100 ) || ( scrolled > 9999999999999 )) { fixed=0; jQuery('#section-12').addClass('gusta-hide-section'); } else { jQuery('#section-12').removeClass('gusta-hide-section'); } if (jQuery('#section-12').is(':visible') && fixed==0) { gusta_fix_vc_full_width(); fixed=1; } gusta_fix_vc_full_width(); });jQuery('.masthead, .mobile-header-space, .masthead, .dt-close-mobile-menu-icon, .dt-mobile-header, footer, #main').show(); gusta_fix_vc_full_width(); jQuery(window).on('load resize', function() { jQuery('#gusta-sticky').show(); gusta_fix_vc_full_width(); });});</script>
+	
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+ 
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+ 
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

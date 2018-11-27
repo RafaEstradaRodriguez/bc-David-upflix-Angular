@@ -10,6 +10,8 @@ import { HomeComponent } from './home/home.component';
 import { SearchFormComponent } from './search-form/search-form.component';
 import { CarrouselComponent } from './carrousel/carrousel.component';
 import { ApiMoviesService } from './api-movies.service';
+import { PeliculasComponent } from './peliculas/peliculas.component';
+import { SeriesComponent } from './series/series.component';
 
 @NgModule({
     declarations: [
@@ -18,7 +20,9 @@ import { ApiMoviesService } from './api-movies.service';
         FooterComponent,
         HomeComponent,
         SearchFormComponent,
-        CarrouselComponent
+        CarrouselComponent,
+        PeliculasComponent,
+        SeriesComponent
     ],
     imports: [
         HttpClientModule,

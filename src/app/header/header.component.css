@@ -2,7 +2,10 @@ header {
     display: flex;
     justify-content: space-between;
 }
-
+nav {
+    display: flex;
+    justify-content: space-around;
+}
 li {
     font-size: 1rem;
     font-weight: bold;
@@ -11,7 +14,11 @@ li {
     margin: 1rem;
 }
 nav div {
-    margin-left: 2rem;
+    align-self: center;
+    margin-left: 3rem;
+}
+app-search-form {
+    align-self: center;
 }
 a:link {
     text-decoration: none;

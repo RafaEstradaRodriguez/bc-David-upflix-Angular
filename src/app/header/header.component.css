@@ -1,0 +1,26 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    font-size: 1rem;
+    font-weight: bold;
+    list-style-type: none;
+    display: inline-block;
+    margin: 1rem;
+}
+nav div {
+    margin-left: 2rem;
+}
+a:link {
+    text-decoration: none;
+    color: rgb(182,182,182);
+}
+a:hover {
+    color: rgb(229,229,229);
+}
+a:visited {
+    text-decoration: none;
+    color: rgb(182,182,182);
+}

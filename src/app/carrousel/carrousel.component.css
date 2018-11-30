@@ -1,35 +1,37 @@
+/* Escojo el div grande con 20 columnas, que son las que recibo de la api */
 div {
     margin: 1rem 0 2rem 0;
     display: grid;
-    grid-template-columns: repeat(7,min-content);
+    grid-template-columns: repeat(20,min-content);
     gap: 2px;
     position: relative;
     left: -185px;
     z-index: 1;
 }
+/* Aquí trato el comportamiento con el hover */
 section img{
     transition-duration: .5s;
     width: 230px;
     height: 130px;
 }
+/*
 section img:hover {
     width: 500px;
     height: 282px;
     z-index: 5;
     transform: translate(-135px,-76px);
-    /*transform: translate(0,-76px);*/
+    !*transform: translate(0,-76px);*!
     transition-duration: .4s;
-    /*transform: translate3d(0px,0px,0px);
-    transition-timing-function: cubic-bezier(0.5, 0, 0.1, 0);*/
-
+    !*transform: translate3d(0px,0px,0px);
+    transition-timing-function: cubic-bezier(0.5, 0, 0.1, 0);*!
     transition-delay: 0.4s;
 }
 section:hover ~ section {
     transform: translateX(-135px);
     transition-delay: 0.4s;
     transition-duration: 0.4s;
-    /*transition-timing-function: cubic-bezier(0.1, 0, 0.5, 0);*/
+    !*transition-timing-function: cubic-bezier(0.1, 0, 0.5, 0);*!
 }
 section:hover::before {
     transform: translateX(-135px);
-}
+}*/

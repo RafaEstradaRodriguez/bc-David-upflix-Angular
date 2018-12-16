@@ -2,6 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { FormsModule } from '@angular/forms';
 
 import { AppRoutingModule } from './app-routing.module';
 
@@ -16,6 +17,7 @@ import { SeriesComponent } from './series/series.component';
 import { DetailComponent } from './detail/detail.component';
 
 import { ApiMoviesService } from './api-movies.service';
+import { DispSearchComponent } from './disp-search/disp-search.component';
 @NgModule({
     declarations: [
         AppComponent,
@@ -26,13 +28,15 @@ import { ApiMoviesService } from './api-movies.service';
         CarrouselComponent,
         PeliculasComponent,
         SeriesComponent,
-        DetailComponent
+        DetailComponent,
+        DispSearchComponent
     ],
     imports: [
         HttpClientModule,
         BrowserModule,
         AppRoutingModule,
-        BrowserAnimationsModule
+        BrowserAnimationsModule,
+        FormsModule
     ],
     providers: [
         ApiMoviesService

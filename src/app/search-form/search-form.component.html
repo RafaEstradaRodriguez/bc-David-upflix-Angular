@@ -1,3 +1,8 @@
-<p>
-  search-form works!
-</p>
+<form (keyup)="search(searchForm)"
+      (ngSubmit)="search(searchForm)"
+      #searchForm="ngForm">
+  <input class="form-control"
+         type="text"
+         name="peli"
+         ngModel/>
+</form>

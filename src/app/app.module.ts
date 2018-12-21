@@ -18,6 +18,7 @@ import { DetailComponent } from './detail/detail.component';
 
 import { ApiMoviesService } from './api-movies.service';
 import { DispSearchComponent } from './disp-search/disp-search.component';
+import { SanitizePipe } from './sanitize.pipe';
 @NgModule({
     declarations: [
         AppComponent,
@@ -29,7 +30,8 @@ import { DispSearchComponent } from './disp-search/disp-search.component';
         PeliculasComponent,
         SeriesComponent,
         DetailComponent,
-        DispSearchComponent
+        DispSearchComponent,
+        SanitizePipe
     ],
     imports: [
         HttpClientModule,

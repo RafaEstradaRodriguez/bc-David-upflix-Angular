@@ -1,7 +1,28 @@
-<div class="carrousel">
-  <section *ngFor="let movie of elementosAMostrar">
-    <img alt="{{movie.name}}"
-         src="{{movie.img_url}}"
-        >
-  </section>
+<div class="carousel">
+    <div class="carousel-row"
+         [@slideNext]='{value: state, params: {tras: tras*firstItem}}'
+         (@slideNext.done)="cambiaEstado()">
+        <div  ngClass="carousel-tile"
+              *ngFor="let elem of elementosAMostrar,let i = index"
+              (mouseenter)="mouseEnter(i)"
+              (mouseleave)="mouseLeave(i)">
+            <div *ngIf="!hovered[i]">
+                <img alt="{{elem.name}}"
+                [src]="elem.img_url" width="250px"
+                >
+            </div>
+            <div *ngIf="hovered[i]">
+            <iframe width="248"
+                    [src]="elem.trailerKey | sanitize">
+            </iframe>
+            </div>
+        </div>
+    </div>
+    <div *ngIf="firstItem!=0" class="slider-left" (click)="slideToPreviousItem()">
+        <i id="slider-left" class="fas fa-angle-left"></i>
+    </div>
+    <div *ngIf="firstItem!=15" class="slider-right" (click)="slideToNextItem()">
+        <i id="slider-right" class="fas fa-angle-right"></i>
+    </div>
+
 </div>

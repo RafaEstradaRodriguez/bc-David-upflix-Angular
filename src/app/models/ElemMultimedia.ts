@@ -5,6 +5,7 @@ export class ElemMultimedia {
     public bio;
     public releaseDate: string;
     public valoration: number;
+    public trailerKey: string;
 
     constructor(
         id: number,
@@ -12,7 +13,8 @@ export class ElemMultimedia {
         img_url: string,
         bio: string,
         releaseDate: string,
-        valoration: number
+        valoration: number,
+        trailerKey: string
         ) {
         this.id = id;
         this.name = name;
@@ -20,5 +22,6 @@ export class ElemMultimedia {
         this.bio = bio;
         this.releaseDate = releaseDate;
         this.valoration = valoration;
+        this.trailerKey = trailerKey;
     }
 }

@@ -9,11 +9,11 @@ import { ActivatedRoute } from '@angular/router';
 })
 export class DispSearchComponent implements OnInit {
   multElems = [];
-  elem: String;
+  elemToSearch: String;
   constructor(private apiService: ApiMoviesService, private activatedRoute: ActivatedRoute) {
     this.activatedRoute.params.subscribe(params => {
-      this.elem = params['elem'];
-      this.search(this.elem);
+      this.elemToSearch = params['elem'];
+      this.search(this.elemToSearch);
     });
   }
 

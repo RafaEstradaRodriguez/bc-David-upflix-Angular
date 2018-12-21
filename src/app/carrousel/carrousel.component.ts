@@ -29,25 +29,38 @@ export class CarrouselComponent implements OnInit {
     firstItem = 0;
     tras = -16.25;
     timeOut: any;
+    sliderHover = false;
     constructor() { }
     ngOnInit() {}
 
-    slideToNextItem() {
+    slideToNextItem(e) {
         if (!this.isAnimating) {
             this.isAnimating = true;
             this.state = 'destino';
+            let actioner = e.target;
             if (this.firstItem !== 15) {
+                if (e.target.id === 'slider-right') {
+                    actioner = actioner.parentNode;
+                }
+                actioner.parentNode.firstChild.childNodes[( this.firstItem / 5)].classList.remove('shine');
                 this.firstItem += 5;
+                actioner.parentNode.firstChild.childNodes[( this.firstItem / 5)].classList.add('shine');
             }
         }
     }
 
-    slideToPreviousItem() {
+    slideToPreviousItem(e) {
         if (!this.isAnimating) {
             this.isAnimating = true;
             this.state = 'destino';
+            let actioner = e.target;
             if (this.firstItem !== 0) {
+                if (e.target.id === 'slider-left') {
+                    actioner = actioner.parentNode;
+                }
+                actioner.parentNode.firstChild.childNodes[(this.firstItem / 5)].classList.remove('shine');
                 this.firstItem -= 5;
+                actioner.parentNode.firstChild.childNodes[(this.firstItem / 5)].classList.add('shine');
             }
         }
     }

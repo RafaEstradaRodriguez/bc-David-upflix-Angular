@@ -1,4 +1,10 @@
 <div class="carousel">
+    <div class="counter">
+        <div class="counterChild shine"></div>
+        <div class="counterChild"></div>
+        <div class="counterChild"></div>
+        <div class="counterChild"></div>
+    </div>
     <div class="carousel-row"
          [@slideNext]='{value: state, params: {tras: tras*firstItem}}'
          (@slideNext.done)="cambiaEstado()">
@@ -18,11 +24,10 @@
             </div>
         </div>
     </div>
-    <div *ngIf="firstItem!=0" class="slider-left" (click)="slideToPreviousItem()">
+    <div *ngIf="firstItem!=0" class="slider-left" (mouseenter)="sliderHover=true" (mouseleave)="sliderHover=false" (click)="slideToPreviousItem($event)">
         <i id="slider-left" class="fas fa-angle-left"></i>
     </div>
-    <div *ngIf="firstItem!=15" class="slider-right" (click)="slideToNextItem()">
+    <div *ngIf="firstItem!=15" class="slider-right" (mouseenter)="sliderHover=true" (mouseleave)="sliderHover=false" (click)="slideToNextItem($event)">
         <i id="slider-right" class="fas fa-angle-right"></i>
     </div>
-
 </div>
